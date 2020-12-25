@@ -144,7 +144,10 @@ EXTEND_TOP ~ar0903.bcs~ ~override/ar0903.bcs~
 EXTEND_TOP ~sht0903.bcs~ ~override/sht0903.bcs~
 EXTEND_TOP ~sht0902.bcs~ ~override/sht0903.bcs~
 
+
 // The Vampire Hunters
+COMPILE ~valen/hunt1/scripts~
+
 COPY    ~valen/hunt1/valenuh1.cre~      ~override/valenuh1.cre~
   SAY NAME1 @20 SAY NAME2 @20
 COPY    ~valen/hunt1/valenuh2.cre~      ~override/valenuh2.cre~
@@ -160,9 +163,9 @@ COPY    ~override/valensla.bcs~      ~override/valensla.bcs~
   REPLACE 99993 @26 
   REPLACE 99994 @27 
   REPLACE 99995 @28 
-COMPILE ~valen/dialogs/hunt1.d~
-  USING ~valen/american/hunt1.tra~
-        ~valen/%s/hunt1.tra~
+COMPILE ~valen/hunt1/dialogs/hunt1.d~
+  USING ~valen/languages/american/hunt1.tra~
+        ~valen/languages/%s/hunt1.tra~
 
 // ToB Epilogue
 COPY ~valen/valenend.2da~ ~override/valenend.2da~ REPLACE ~999999~ @999999
