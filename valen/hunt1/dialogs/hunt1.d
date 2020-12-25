@@ -1,0 +1,46 @@
+BEGIN VALENUH1
+
+BEGIN VALENUH4
+
+IF ~NumTimesTalkedTo(0)~ THEN BEGIN start
+  SAY @1
+  IF ~~ THEN EXTERN VALENUH1 chain1
+END
+
+CHAIN2 VALENUH1 chain1
+   @2
+== @3
+== @4
+== @5
+END VALENUH4 ask1
+
+IF ~~ THEN BEGIN ask1
+  SAY @6
+  IF ~~ THEN REPLY @7 EXTERN VALENJ whom
+  IF ~~ THEN REPLY @8 EXTERN VALENJ whom
+  IF ~~ THEN REPLY @9 EXTERN VALENJ whom
+END
+
+APPENDI VALENJ
+  IF ~~ THEN BEGIN whom
+    SAY @10
+    IF ~~ THEN EXTERN VALENUH4 dear
+  END
+END
+
+IF ~~ THEN BEGIN dear
+  SAY @11 = @12 = @13
+  IF ~~ THEN REPLY @14 GOTO peace
+  IF ~~ THEN REPLY @15 GOTO fight
+END
+
+IF ~~ THEN BEGIN fight
+  SAY @16 
+  IF ~~ THEN DO ~SetGlobal("ValenHunt1Fight","GLOBAL",1)~ EXIT
+END
+
+IF ~~ THEN BEGIN peace
+  SAY @17 
+  IF ~~ THEN DO ~SetGlobal("ValenHunt1Peace","GLOBAL",1)~ EXIT
+END
+
