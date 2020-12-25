@@ -1,0 +1,176 @@
+// Ribald
+@1001 = ~¡Quieta... no creas que no te he visto, demonio! ¡Yo no tengo tratos con gente de tu calaña! Vuelve arrastrásdote a tu señora. No necesito el tipo de "protección" que ella vende a otras tiendas.~
+@1002 = ~Relájate... Ribald. Estoy con <CHARNAME>. No tengo ningún interés en ti o en tu pequeño "mercadillo". Ni tampoco lo tiene mi Señora. Respetamos la fuerza.~
+@1003 = ~Apuesto a que si. Tan sólo pon las manos donde pueda verlas, chupadora de sangre. No quiero ningún problema.~
+@1004 = ~Estaré tan quietecita como una cordera. Ni tan siquiera me oirás dar un balido.~
+
+// Kamir the Paladin
+@1010 = ~Supéralo. No será el último juramento que rompas.~
+@1011 = ~¡Cómo te atreves a burlarte de mi dolor! ¡Fuera de mi vista!~
+@1012 = ~... espera ... tienes un aura de mal impío sobre ti. ¡Con la bendición de Helm, en este día os veré a ti y a tus acompañantes muertos!~
+@1013 = ~(Siseando) Bueno, veámoslo. Ni siquiera pudiste mantener un niño a salvo. ¡Buena suerte con tu vida!~
+@1014 = ~¡Protégeme Helm! ¡Concédeme el poder para golpear con violencia este mal en el nombre de mi hijo!~
+
+// Antenos: bodhi servant
+@1020 = ~Guarda silencio, Antenos. <CHARNAME> y yo trabajamos juntos ahora y estamos bajo las ordenes directas de la Señora.~
+@1021 = ~¡Valen! Perdóname por no verte antes... siempre insistes en permanecer en las sombras cerca de los que van contigo. Me he sobrepasado.~
+
+// Chore: bodhi servant
+@1022 = ~Ignora a esta, <CHARNAME>. Mi Señora fue un poco... excesiva... y la pobre Chore no tiene conciencia de si misma. No hay nada que aprender aquí.~
+
+// Fetch: bodhi servant
+@1023 = ~Cállate, Fetch. Este nos es completamente inútil, <CHARNAME>. Déjanos continuar, trabajamos para Bodhi.~
+
+// Food: bodhi servant 
+@1024 = ~No te preocupes, <CHARNAME>. Me temo que encontrarás nuestra comida habitual ... desagradable. Busca comida para ti en una posada cuando la necesites.~
+
+// Master Cohn: bodhi servant 
+@1025 = ~No te des tantos aires, Cohn. La edad y el poder no siempre van de la mano.~
+@1026 = ~En este caso si, Valen. No me hagas disciplinarte otra vez. Tienes mucho que aprender para poder competir conmigo.. y lo sabes. Pide perdón.~
+@1027 = ~(Siseando) Si, Maestro Cohn. Perdóname, me pasé de la raya.~
+
+// Meredath: bodhi servant
+@1028 = ~Ah, otra exhibición del poder de mi Señora. Incluso desde la distancia, ella es la ley. Mira y aprende, <CHARNAME>. Yo uso una forma menos potente del mismo tipo de dominación en mis enemigos, pero nunca pude controlar a otro vampiro.~
+@1029 = ~Por cierto, que Meredath era conocida como Laune. Cuando desagradó a la Señora, su nombre fue cambiado... y ella ya no lo recuerda. Adoro el abuso de poder.~ 
+
+// Samia 
+@1030 = ~Ya esta bien, he esperado mientras soltabas toda esa bazofia por tiempo suficiente. <CHARNAME>, prepárate para luchar.~
+@1031 = ~¡Espera!¡Yo no os deseo ningún mal!~
+@1032 = ~No creas sus mentiras. Recuerdo a esta 'Samia' de mis días como guerrera. Ella solía trabajar con una cofradía de Kara-Tur bajo el nombre de Akae. Todo esto huele a emboscada, emboscada y más emboscada. Créeme, se lo suficiente de ellos como para saberlo.~
+@1033 = ~¡No puedo creer que hayas arruinado mi emboscada! Por supuesto, a ti te la habría ahorrado, Valen. ¿Es que no hay honor entre ladrones?~
+@1034 = ~Creo que la respuesta más clásica a eso es...¡No! ¡Prepárate para la Muerte Final, Samia!~
+
+// Grancor 
+@1040 = ~Por mi Señora, ¿Podrías hablar más claro? Ninguna criatura verdaderamente inteligente podría esperar que una banda de aventureros se tragara esa patraña.~
+@1041 = ~Nosotros... ah... ¿Cómo dices?~
+@1042 = ~Que para mi sensitivo olfato, vosotros dos oléis desde lejos como lobos. Tomarlo como un consejo de una pícara experimentada: vuestra técnica necesita ser trabajada un poco más. Desafortunadamente, ya nunca tendréis la oportunidad de practicarla.~
+@1043 = ~Venga muchachos: ha llegado el momento de hacer saltar vuestra patética trampa. No me hagáis esperar...~ 
+
+// Daleson 
+@1044 = ~Bueno, parece que ya hemos obtenido toda la información útil que podíamos conseguir de ti. (siseando) Es tiempo para empezar a correr, Daleson. Tu miedo es muy ... excitante... ¡Y pronto me dare un festín con tu alma!~
+
+// Delcia 
+@1045 = ~Ya he tenido de ti todo lo que puedo aguantar, "señorita". He conocido prostitutas con más clase en su dedo meñique que tú en todo tu noble cuerpo.~
+@1046 = ~(siseando) Me has hartado con tu esnobismo banal. ¡Es hora de morir!~
+
+// Amnish night guards in Gov't district 
+@1050 = ~ Realmente... ¡Parece como ellos! Mira que pálida que es esta muchacha. Todos los de la cofradía que van tras los Ladrones de las Sombras son asi.~
+@1051 = ~¡Quieto! No voy a permitir que te acerques a esta pobre muchacha sólo porque sea un poco blanca de piel. Hasta que no tengas pruebas de que trabaja para ese montón de escoria del distrito del cementerio no te dejaré que le pongas una mano encima.~
+@1052 = ~¿Montón de escoria? (siseando) ¡Cómo te atreves a insultar a mi Señora, paleto! Te enseñaré el verdadero poder de nuestra 'cofradía'. ¡Prepárate para encontrarte con la Muerte Final!~
+@1053 = ~¡lo ves, te lo dije!~
+@1054 = ~¡Cierra el pico y pelea!~
+
+// Delon  
+@1060 = ~Ahora, cariñín, fuiste muy amable al planear de que no hubiera nadie cerca que se preocupara de ti... nadie cerca que se preocupe de qué te pueda pasar a ti...~
+@1061 = ~... Creo que ha llegado el momento de cubrite como mi abrazo. Tu joven y virginal sangre me llama...~
+@1062 = ~Usted da miedo, señora. ¡Qué colmillos tan grandes tiene!~
+@1063 = ~¡Para morderte mejor, querido!~
+
+// Inspector Brega 
+@1070 = ~¡Espera un momento! ¡Te he reconocido!~
+@1071 = ~(dulcemente) ¿Oh, de verdad?~
+@1072 = ~Esa pintura blanca en la cara no me ha despistado. Tú eres Valen, una pequeña gamberra. Estuvimos intentando capturarte por algún tiempo, pero parecía que te había tragado la tierra.~
+@1073 = ~¿Qué puedo decir? Soy solitaria y esquiva.~
+@1074 = ~También eres una tonta, al presentarte aquí delante de mi. Te pongo bajo arresto por asalto y robo. ¿Vendrás sin dar un escándalo?~
+@1075 = ~No, siempre he sido una gritona. Pero tú te irás en silencio, ¡a la Muerte Final!~
+@1076 = ~¡Guardias! ¡A mi!~
+
+// Rose
+@1080 = ~Hola, Valen. Hacía tiempo que no te veía por aquí. Pensaba que sólo trabajabas en los muelles.~
+@1081 = ~Solía hacerlo, pero ahora he encontrado un nuevo objetivo.~
+@1082 = ~Esto es una vergüenza. Me sentiría más segura trabajando en el puente si supiera que tu estabas aquí para perseguir a ese asesino de la bahía. Si alguien puede apuñalarle, ese alguien serías tú.~
+@1083 = ~Gracias, Rose.. quizá tenga luego un rato libre para estar contigo, como en los viejos tiempos. Pero tengo que seguir a <CHARNAME>, es este de aquí, asi que ya te buscaré más tarde.~
+@1084 = ~¡Adiós!~
+
+// Valygar 
+@1090 = ~Me apena escuchar eso, estúpido. Ahora tendré el placer de matarte, beberme tu sangre y usar tu cuerpo para robar los objetos mágicos de tus antepasados. ¡Qué tarea tan maravillosa!~
+@1091 = ~Tú... ¿Qué clase de monstruo eres?~
+@1092 = ~(siseando) ¡El que se convertirá en tu peor pesadilla!~
+@1093 = ~Lucha conmigo si debes, pero salvo que te conviertas en una visión de mi mismo matando a mis padres no-muertos y enloquecidos por la magia, nunca llegarás a igualarte con mis peores pesadillas.~
+@1094 = ~Espero que no creas que esa pequeña historia dramática me detendrá. Aunque al menos has acertado en la parte de la 'no-muerte'. ¡Prepárate para la Muerte Final, imbécil!~
+
+// Anath 
+@1100 = ~¿Amaunator? No me escupas ese nombre, lobo. No tenemos tiempo para tus mentiras.~
+@1101 = ~(sniff) Aun hechas humo de la tumba, mujer. Debes de estar compinchada con el Señor de las Sombras. Te mataré para vengar mi caida.~
+@1102 = ~(siseando) ¡Saca tus garras! Tus mentiras y tu vida terminan aquí.~
+
+// Roger 
+@1110 = ~¡Valen! Eres una visión agradable para unos ojos cansados.~
+@1111 = ~¡Roger! ¿Qué tal te va, viejo pirata?~
+@1112 = ~Bueno, a pesar de verme forzado a escapar por las cloacas de toda la excitación producida por cierta guerra de cofradías, nunca he estado mejor. Sin embargo tu pareces un poco paliducha. ¿No has tomado suciente el sol?~
+@1113 = ~Digamos que estos días estoy teniendo todo el sol que puedo soportar.~
+@1114 = ~Escucha, Valen, recientemente las cosas han estado un poco ásperas por aquí. Quizá querrías  dejar el robo por una temporada.~
+@1115 = ~No te preocupes, Rog, tengo todo un nuevo plan de juego estos días. Puedo cuidar de mi misma.~
+@1116 = ~Por mi vale mientras estes contenta, pequeña.~
+@1117 = ~Sabes, eres el único que puede llamarme 'pequeña' sin sufrir una maldición peor que la muerte.~
+@1118 = ~Eso es porque aun recuerdas quién vendió tu primer botín cuando todavía eras una niña... y no te estafé.~
+@1119 = ~Si, tuviste un corazón de oro, Roger. Espero que continue latiendo la próxima vez que venga de visita. Qué te vaya bien, amigo mío.~
+@1120 = ~A ti también.~
+
+// Aran 
+@1130 = ~No lo creo, Aran, como representante de 'la perra' aquí, espero cortarte la lengua y servírtela en una bandeja.~
+@1131 = ~Un pajarito me dijo que esperara ese tipo de intervención de tu parte. ¡Mask, protégeme!~
+@1132 = ~¡Ni siquiera Mask podrá ayudarte ahora! ¡Prepárate para la Muerte Final!~
+
+// Imoen 
+@1140 = ~¿Esta es la que querías que rescatáramos? ¿Todo ese esfuerzo para una cáscara sin alma?~
+@1141 = ~tan... vacía. ¡Tú! ¡Aléjate! ¡Tú eres como Ella! Te sacaré los ojos... tus rojos ojos.~
+@1142 = ~Ella es desilusionante, <CHARNAME>. Lo siento por Imoen.~
+
+// Lonk no tenemos tiempo para tratar con este pelele... y ahora mismo su pulso me está invitando. Desollémosle vivo, <CHARNAME>, y después daremos caza a Irenicus.
+@1150 = ~no tenemos tiempo para tratar con este pelele... y ahora mismo su pulso me está invitando. Desollémosle vivo, <CHARNAME>, y después daremos caza a Irenicus.~
+@1151 = ~¿Me estas amenazando, niñita?~
+@1152 = ~(dulcemente) Claro que si, Lonk. Creo que lo estoy haciendo.~
+
+// Dace 
+@1160 = ~¿Tú eres Dace, verdad? Recuerdo haber oido historias acerca de ti. Master Cohn dijo que tu estabas fuera con un poderoso aliado de nuestra Señora haciendo un importante encargo.~
+@1161 = ~Importante entonces, no tan importante ahora, pequeña. Bodhi me ha desechado como una herramienta inútil ahora que mi tarea esta finalizada.~
+@1162 = ~(siseando) Me duele decirlo, pero lo mismo me ha ocurrido a mi. Esto demuestra una cara de mi Señora que, debo admitir, encuentro... menos perfecta. ¡Oh, ojalá ella volviera a tomarme bajo su protección!~
+@1163 = ~te curarás muy pronto de esta nimia desilusión, pequeña. Bodhi es una vampiro poderosa, pero no es tu salvación.~
+@1164 = ~¿Cómo podemos escapar de este laberinto, Dace? Por favor, dinos como podemos salir.~
+@1165 = ~En el nivel más bajo hay una estatua en una habitación del oeste. Os dejará pasar si tenéis en vuestro poder dos poderosos artefactos. Uno es un fragmento de cristal. Una vez que consigáis pasar, os encontraréis en una región dominada por minotauros.~
+@1166 = ~Este área en particular es perfecta para las emboscadas, asi que si hay alguién acechándote esperaría encontrármelo allí. Nececitáis conseguir dos cuernos de minotauro de piedra y encajarlos en la estatua grande para poder escapar. Después de esto, estaréis a la merced de los, hace tiempo muertos, directores del Sanatorio.~
+@1167 = ~Os harán pasar por una especie de test de locura. No estoy seguro de que va después de eso. Buena suerte, pequeña.~
+@1168 = ~Gracias, Dace. ¿Pero qué pasa con el otro artefacto que mencionaste?~
+@1169 = ~El otro artefacto que necesitas es mi voluntad, simbolizada por mi mano. He estado demasiado  tiempo en esta no-vida, y mi Señora me ha abandonado. Ha llegado el momento para mi de terminar mi existencia.~
+@1170 = ~¡Seguramente todos podemos salir juntos de aquí!~
+@1171 = ~¡No! ¡He dicho que no! He sellado el camino; debes liberarme con la Muerte Final. Ven a mi, niñita. ¡Enfréntate a tus superiores!~
+
+// Saemon 
+@1180 = ~¿Tú otra vez, Saemon? Este hombre es un embaucador, <CHARNAME>, pero es del tipo de timador que me encanta. Algo me dice que tendríamos que creerle. Llámalo... Intuición de ladrona.~
+@1181 = ~Gracias por ese voto de... confianza, mi dama.~
+@1182 = ~Me extraña que quieras pasar como un excelente hombre de confianza, Saemon.~
+@1183 = ~Me hieres, señorita, tus palabras me llegan directamente al corazón.~
+@1184 = ~Tus palabras y tus velas se hinchan sólo cuando los vientos son favorables. ¿Te lleva algún tiempo borrar ambas de tu cara por la mañana, Saemon?~ 
+@1185 = ~¡Voy a cortar por lo rápido con tus duras acusaciones!~
+@1186 = ~Y tú siempre eres rápido para cortar tus pérdidas cuando el juego comienza a girar, ¿Verdad?~
+@1187 = ~Creo que dar la espalda a tu encantadora cara sería mi perdición.~
+@1188 = ~Ya es suficiente. Inclusó aparte de mi predisposición por los bribones ingeniosos, <CHARNAME>, me gusta este mortal. Veamos que tiene que ofrecernos por acompañarnos en nuestro pequeño y feliz grupo de nuevo.~
+@1189 = ~Irenicus ha escapado a través de un portal que llevaba a la Infraoscuridad, pero creo que podemos darle alcance si volvemos a la isla y tomamos mi barco. ¿no fue nuestro primer viaje rápido y tranquilo? Te prometo una experiencia similar si vuelves a viajar conmigo.~
+
+// Demon 
+@1190 = ~¡Espera, demonio! ¡Tengo los huevos del dragón de plata aquí! Te los ofrezco a cambio de un incremento en mis habilidades y dos objetos mágicos poderosos.~
+@1191 = ~** ¿DE VERAS, VAMPIRESA? QUE INTERESANTE. EL HIJO DE BHAAL ES REALMENTE VALIENTE POR TENER SEMEJANTE SIRVIENTE JUNTO A <PRO_HESHE>. **~
+
+// Simyaz 
+@1200 = ~(siseando) ¡No, realmente, destruimos todo el enclave *sin ti*!~
+@1201 = ~ Tus trucos mentales Githyanki no funcionan conmigo, viejo. Soy inmune. Y trataré de haceros pagar el que nos dejarais a sólas con aquellos monstruos.~
+@1202 = ~¿Hacernos pagar?~
+@1203 = ~Si... ¡Con sangre! ¡Prepárate, cobarde, para la Muerte Final!~
+
+// Drizzt 
+@1210 = ~No tan rápido, piel oscura. Historias de tu poder... y de tu poderoso equipo... se han extendido a lo largo y ancho de Faerûn. Y yo soy lo suficientemente sanguinaria como para ponerte a prueba.~
+@1211 = ~¿Qué estas diciendo, mujer?~
+@1212 = ~Estoy diciendo que pronto me daré un festín con tu alma, drow.~
+@1213 = ~¡Encontrarás que no soy un enemigo fácil!~
+@1214 = ~(dulcemente) Oh, eso espero.~
+@1215 = ~Prepárate, demonio!~
+
+// Elhan 
+@1220 = ~Confía en mi, oh él de las orejas puntiagudas, he memorizado cada frase en la que el nombre de Bodhi es mencionado... y nosotros no dimo ese secreto en concreto a nadie más que a ti.~
+
+// Demin 
+@1230 = ~¡Noticias breves! Los elfos descubren lo obvio, proceden a revelarlo despacio a lo largo del tiempo, en una conversación equivocada mientras mantienen una prudente distancia y una actitud arrogante.~
+
+// Hell Sarevok 
+@1240 = ~Me siento sucia escuchándole, y ni siquiera esta hablando conmigo. No dejes pasar esta oportunidad, <CHARNAME>. ¡Golpéale!¡Suelta tu rabia!~

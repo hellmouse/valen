@@ -1,0 +1,170 @@
+// Ribald
+@1001 = ~Wait ... don't think I don't see you, demon! I have no business with you or your kind! Go crawling back to your mistress. I don't need the sort of "protection" that she sells to other stores.~
+@1002 = ~Relax ... Ribald. I'm here with <CHARNAME>. I really have no interest in you or your little "mart". And neither does my Mistress. We respect strength.~
+@1003 = ~I bet you do. Just keep your hands where I can see them, bloodsucker. I don't want any trouble.~
+@1004 = ~I'll be as quiet as a lamb. You won't even hear me bleat.~
+
+// Kamir the Paladin
+@1010 = ~Get over it, pansy. It won't be the last oath that you break.~
+@1011 = ~How dare you mock my sorrow! Get out of my sight!~
+@1012 = ~... wait ... you have an aura of unholy evil about you. With Helm's blessing, I will see you and your followers dead this day!~
+@1013 = ~(hiss!) We'll just see about that. You couldn't even keep a child alive. Good luck saving yourself!~
+@1014 = ~Helm preserve me! Grant me the power to smite this evil in my son's name!~
+
+// Antenos: bodhi servant
+@1020 = ~Keep silent, Antenos. <CHARNAME> and I are working together now and following the direct orders of the Mistress.~
+@1021 = ~Valen! Forgive me for not seeing you there ... you always insist on standing in the shadows of those near to you. I have overstepped myself.~
+// Chore: bodhi servant
+@1022 = ~Ignore this one, <CHARNAME>. My mistress was a little ...  overzealous ... and poor Chore has no mind of her own. You can learn nothing here.~
+// Fetch: bodhi servant
+@1023 = ~Silence, Fetch. This one is of no use to us, <CHARNAME>. Let us do as Bodhi bids.~
+// Food: bodhi servant
+@1024 = ~Don't bother, <CHARNAME>. I fear that you would find our normal repast here ... insubstantial. Seek food for yourself in an inn if you must.~
+// Master Cohn: bodhi servant
+@1025 = ~Don't put on airs, Cohn. Age and power do not always go hand in hand.~
+@1026 = ~In this case they do, Valen. Don't make me discipline you again.  You have much to learn before you can compete with me ... and you know it. Beg my forgiveness.~
+@1027 = ~(hiss!) Yes, Master Cohn. Forgive me, I stepped out of line.~
+// Meredath: bodhi servant
+@1028 = ~Ah, another exhibition of the power of the Mistress. Even at a distance, her will is law. Watch and learn, <CHARNAME>. I use a weaker form of this same domination on my enemies, but I could never control another vampire.~
+@1029 = ~Meredath used to be known as Laune, by the way. When she displeased the Mistress her name was changed ... and she doesn't even remember. I do so love the abuse of power.~ 
+
+// Samia
+@1030 = ~All right, I've sat through this load of hogwash long enough. <CHARNAME>, prepare for a fight.~
+@1031 = ~Wait! I mean you no harm!~
+@1032 = ~Don't believe her lies, <CHARNAME>. I remember this 'Samia' from my days as a kneecapper. She used to work with a Kara-Turan rogue by the name of Akae. This whole thing reeks of ambush, ambush and more ambush. Trust me, I've set enough of them to know.~
+@1033 = ~I can't believe that you ruined my ambush! I would have spared you, of course, Valen. Is there no honor among thieves?~
+@1034 = ~I think the classic answer to that is ... No! Prepare for the Final Death, Samia!~
+
+// Grancor
+@1040 = ~By the Mistress, could you be any more obvious? No truly intelligent creature would expect a band of adventurers to fall for that drivel.~
+@1041 = ~We... ah... What you say?~
+@1042 = ~That, and you both smell far too much like wolves to my sensitive nose. Take it from an experienced thug, boys: your technique needs quite a bit of work. Unfortunately, you'll never get the chance to practice.~
+@1043 = ~Come on, boys: it's time to spring your pathetic trap. Don't keep me waiting ...~ 
+
+// Daleson
+@1044 = ~Well, it seems that we've gotten all of the useful information we can from you. (hiss!) Time to start running, Daleson. Your fear is very ...  exciting ... and I shall soon feast on your soul!~
+// Delcia
+@1045 = ~I've had as much of you as I can stand, 'lady'. I've known prostitutes with more class in their little finger than you have in your entire noble body.~
+@1046 = ~(hiss!) You have frustrated me to no end with your banal snobbery. Time to die!~
+
+// Amnish night guards in Gov't district
+@1050 = ~Actually ... it does look like them! Look at how pale that girl is. Everyone from the guild that has been going after the Shadow Thieves looks like that.~
+@1051 = ~Hold on! I'll not have you accosting this poor girl just because she's a bit wan. Until you have proof that she works for that dirtbag in the graveyard district I won't let you lay a hand on her.~
+@1052 = ~Dirtbag? (hiss!) How dare you insult my Mistress, peasant! I'll show you the true power of our 'guild'. Prepare to meet the Final Death!~
+@1053 = ~See, I told you!~
+@1054 = ~Shut up and fight!~
+
+// Delon
+@1060 = ~Now, dearie, since you were so kind as to make it plain that there is no one around to take care of you ... no one around who cares what happens to you ...~
+@1061 = ~... I think it is time for me to take you under my wing. Your young virgin blood calls to me ...~
+@1062 = ~You're really scary, ma'am. What big fangs you have!~
+@1063 = ~The better to eat you with, my dear!~
+
+// Inspector Brega
+@1070 = ~Wait a moment! I recognize you!~
+@1071 = ~(sweetly) Oh, do you?~
+@1072 = ~That white face-paint doesn't fool me. You're Valen, a petty thug. We've been trying to capture you for quite some time but you seem to have gone to ground.~
+@1073 = ~What can I say? I'm rare and elusive.~
+@1074 = ~You're also foolish, to have come in here and presented yourself to me. I'm placing you under arrest for assault and robbery. Will you come quietly?~
+@1075 = ~No, I've always been a screamer. But you will go quietly, to the Final Death!~
+@1076 = ~Guards! To me!~
+
+// Rose
+@1080 = ~Hello, Valen. Haven't seen you here in a while. I thought you only worked the docks.~
+@1081 = ~I used to, but I've found a new calling.~
+@1082 = ~That's a shame. I'd feel safer working the Bridge if I knew you were here to keep that murderer at bay. If anyone could knife 'em, it'd be you.~
+@1083 = ~Thanks, Rose. Maybe I will off 'im for ya, just like the old days. But I've got to follow <CHARNAME>, here, so I'll catch up with you later.~
+@1084 = ~Bye!~
+
+// Valygar
+@1090 = ~I'm glad to hear that, fool. Now we'll have the pleasure of killing you, drinking your blood, and using your body to steal the magical items of your ancestors. What a glorious undertaking!~
+@1091 = ~You ... what kind of monster are you?~
+@1092 = ~(hiss!) I'm about to become your worst nightmare!~
+@1093 = ~Fight me if you must, but unless you become a vision of myself slaughtering my undead, magic-mad parents you will never match my worst nightmares.~
+@1094 = ~I hope you don't think that little sob story will deter me. But at least you got the 'undead' part right. Prepare for the Final Death, fool!~
+
+// Anath
+@1100 = ~Amaunator? Don't spit that name at me, wolf. We have no time for your lies.~
+@1101 = ~(sniff) You reek of the grave, woman. You must be in league with the Shade Lord. I will slay you to avenge my fallen pack.~
+@1102 = ~(hiss!) Bring it on! Your lies and your life end here.~
+
+// Roger
+@1110 = ~Valen! You're a sight for sore eyes.~
+@1111 = ~Roger! How're ya doin', you old pirate?~
+@1112 = ~Well, aside from being forced into the sewers to escape all of the excitement stirred up by a certain guild war, I've never been better. You're looking a bit pale, though. Have you been getting enough sun?~
+@1113 = ~Let's just say that I'm getting all the sun I can stand these days.~
+@1114 = ~Listen, Valen, things have been a bit rough up there recently. You may want to lay off the robbery for a while.~
+@1115 = ~Don't worry, Rog, I have an entirely new game plan these days. I can take care of myself.~
+@1116 = ~As long as you're happy, munchkin.~
+@1117 = ~You know, you're the only one who can call me that without suffering a fate worse than death.~
+@1118 = ~That's because you remember who fenced your first pile of loot when you were but a girl ... and didn't cheat you.~
+@1119 = ~Yes, you've got a heart of gold, Roger. I just hope that it's still beating the next time I come to visit. Be well, my friend.~
+@1120 = ~And you.~
+
+// Aran
+@1130 = ~I think not, Aran. As "the bitch"'s representative here, I look forward to cutting out your tongue and serving it to you on a platter.~
+@1131 = ~Temper, temper! A little bird told me to expect your kind of intervention. Mask, preserve me!~
+@1132 = ~Even Mask will not help you now! Prepare for the Final Death!~
+
+// Imoen
+@1140 = ~This is the one you wanted us to rescue? All that effort for a soulless husk?~
+@1141 = ~So ... empty. But you! Get back! You're just like Her! I'll claw your eyes out ... your red eyes.~
+@1142 = ~She's clearly delusional, <CHARNAME>. So much for Imoen.~
+
+// Lonk
+@1150 = ~We don't have time to deal with this bureaucrat ... and his pulse looks quite inviting right now. Let's flay this one alive, <CHARNAME>, and then hunt down Irenicus.~
+@1151 = ~Are you threatening me, girlie?~
+@1152 = ~(sweetly) Why yes, Lonk. I believe that I am.~
+
+// Dace
+@1160 = ~You're Dace, aren't you? I remember hearing stories about you. Master Cohn said that you were off doing important work with a powerful associate of our Mistress.~
+@1161 = ~Important then, not so important now, little one. Bodhi has cast me aside like a useless tool now that my task is done.~
+@1162 = ~(hiss!) It pains me to say it, but the same has happened to me. It shows a side of my Mistress that I must admit I find ... less than perfect. Oh, would that she would take me back into her good graces!~
+@1163 = ~You'll be cured of that little illusion soon enough, young one. Bodhi is a powerful vampire, but she's not your salvation.~
+@1164 = ~How can we escape this maze, Dace? Please tell us how to get out.~
+@1165 = ~On the lower level there is a statue in a room to the west. It will let you pass if you have two powerful artifacts. One is a crystal shard. Once you pass you will find yourself in a region dominated by minotaurs.~
+@1166 = ~That particular area is perfect for ambushes, so if you have anyone awaiting you I would expect to encounter them there. You'll need to collect two stone minotaur horns and fit them onto a large statue to escape. After that you'll be at the mercy of the long-dead directors.~
+@1167 = ~They'll put you through some sort of insanity test. I'm not sure how things go after that. Good luck, young one.~
+@1168 = ~Thank you, Dace. But what about the other artifact you mentioned?~
+@1169 = ~The other artifact you need is my goodwill, symbolized by my hand. I have been too long in this unlife, and my Mistress has forsaken me. It is time for me to end.~
+@1170 = ~Surely we can all walk out of here together!~
+@1171 = ~No! No I say! I have sealed the way; you must free me with the Final Death. Come to me, childe. Face your elders!~
+
+// Saemon
+@1180 = ~You again, Saemon? This man is a swindler, <CHARNAME>, but he's my kind of swindler. Something tells me that we should trust him. Call it ... thieves' intuition.~
+@1181 = ~Thank you for that vote of ... confidence, my lady.~
+@1182 = ~You strike me as an excellent confidence man, Saemon.~
+@1183 = ~You wound me, lady, your words strike to my very heart!~
+@1184 = ~While your words and sails strike only when the winds are favorable. Does it take extra time to wash both of your faces in the morning, Saemon?~ 
+@1185 = ~I am cut to the quick by your unkind accusations!~
+@1186 = ~And you're always quick to cut your losses when the tables begin to turn, aren't you?~
+@1187 = ~Turning away from your lovely face would be my loss indeed.~
+@1188 = ~Enough of this. Even beyond my penchant for witty rogues, <CHARNAME>, I like this mortal. Let us see what he has to offer us in exchange for imposing upon our happy little group once again.~
+@1189 = ~Irenicus fled through a portal that leads to the Underdark, but I believe that we can head him off if we go to the surface and take my ship. Wasn't our first voyage fast and uneventful? I promise you a similar ride if you travel with me again.~
+
+// Demon
+@1190 = ~Hold, demon! I have the eggs of the silver dragon here! I offer them to you in return for an improvement in my skills and two powerful magical items.~
+@1191 = ~** DO YOU NOW, VAMPIRE?  HOW VERY INTERESTING.  THE BHAAL-CHILD IS BRAVE INDEED TO HAVE SUCH A HEADSTRONG SERVANT. **~
+
+// Simyaz
+@1200 = ~(hiss!) No, actually, we destroyed the whole enclave *without you*!~
+@1201 = ~Your Githyanki mind tricks won't work on me, old man. I'm immune. And I'm looking forward to paying you back for leaving us alone with those monsters.~
+@1202 = ~Paying us back?~
+@1203 = ~Yes ... in blood! Prepare, coward, for the Final Death!~
+
+// Drizzt
+@1210 = ~Not so fast, darkling. Tales of your power ... and powerful equipment ... have spread far and wide. And I'm just bloodthirsty enough to put you to the test.~
+@1211 = ~What are you saying, woman?~
+@1212 = ~I'm saying that I shall soon feast on your soul, drow.~
+@1213 = ~You will not find me an easy target!~
+@1214 = ~(sweetly) Oh, I very much hope not.~
+@1215 = ~Prepare yourself, fiend!~
+
+// Elhan
+@1220 = ~Trust me, oh pointy-eared one, I memorize every sentence in which Bodhi's name is mentioned ... and we didn't give that particular secret away to you.~
+
+// Demin
+@1230 = ~Newsflash! Elves discover the obvious, proceed to reveal it slowly in long, draw-out conversation while maintaining dramatic distance and arrogant demeanor.~
+
+// Hell Sarevok
+@1240 = ~I feel a taint here, and he's not even talking to me. Don't pass up this chance, <CHARNAME>. Smite him! Loose your rage!~

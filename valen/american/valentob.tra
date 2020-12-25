@@ -1,0 +1,59 @@
+// Illasera
+@1001 = ~Illasera the Quick, eh? You're about to become Illasera the Dead, putain. No one with a haircut as ugly as yours could possibly be a challenge to <CHARNAME>. You could have at least set some traps in this ambush of yours.~
+@1002 = ~Silence, dog. You are not a Bhaalspawn: you are of no concern to me. <CHARNAME> alone matters here ... and even <PRO_HESHE> will be unable to face us and live.~
+
+// Sarevok
+@1010 = ~Trust me, warrior, life is overrated. You have the infinite freedom of death? Why wish for the vagaries of life?~
+@1011 = ~I don't know who you are, vampire, but our situations are not the same. Your Undeath grants you freedom of motion and a material body. I lack those ...  amenities.~
+@1012 = ~Of course, I have 'died' many times ... and yet here I remain.  You, on the other hand, are on the last leg of your journey.~
+@1013 = ~Trust me, warrior ... I know enough to keep the Final Death from claiming me.~
+@1014 = ~Yes, I imagine you do. However, my proposal is for <CHARNAME>. You are singularly ... unqualified ... to grant me what I wish.~
+@1015 = ~If you've been without a body for some time, there may well be some things I am singularly ... qualified ... to grant you.~
+@1016 = ~Bah, I have larger concerns than dithering lackies like yourself.~
+
+@1020 = ~Oh, I like this idea, <CHARNAME>. From what I've heard of Sarevok he would be the perfect addition to our little team. Ambition, power, strength! How very exciting.~
+@1021 = ~I am not some bauble to be fawned over by the dead, girl.~
+@1022 = ~Ooh, now he's playing gruff and hard to get.~
+@1023 = ~(sigh) <CHARNAME>, though our reasons differ, I must agree with your pet vampire.~
+
+// Mel
+@1030 = ~(whispered) Be careful, <CHARNAME>. I've set enough ambushes to recognize one a mile away. This woman is about as subtle as an adamantium golem ... which means she probably thinks she has nothing to fear.~
+@1031 = ~She is either insane, powerful, or both.~
+@1032 = ~What brings you here, <CHARNAME>?~
+
+// Saradush Jailer
+@1033 = ~Actually, we can already come and go as we please. And since no-one else is down here to hear you scream, I think it's time to demonstrate that we can also do as we please.~
+@1034 = ~What are you talking about, woman? Say, you look like one of those people who hang out near the crypts to the south side of town.~
+@1035 = ~Interesting knowledge, bloodbag. You're keeping up a good facade, but I can smell your fear from here. Time to die!~
+@1036 = ~Mommy!~
+
+// Saradush Harlot
+@1040 = ~Trust me, dearie, we'll be drinking his blood from a goblet before too long.~
+
+// Kiser
+@1050  = ~Can it, thief. I know a con job when I see one. What say you let us in on the deal and grease our palms a bit? You might even convince us not to kill you here.~
+
+// Errard
+@1060 = ~Because you could not stop for death, She'll kindly stop for you. Prepare to die, mageling.~
+
+// Squip
+@1070 = ~Cough up the spellbook, pickpocket.~
+@1071 = ~What? What are you talking about it?~
+@1072 = ~Can it, pipsqueak. The way you were casing the crowd now looking for marks was just a bit too obvious. The small, muddy footprints cinched the deal. Now show us the spellbook or I'll show you your intestines.~
+
+// Volo 
+@1080 = ~Tell me about Valen.~
+@1081 = ~Ah, the shadowy rose. Valen's fame (or perhaps infamy) has far eclipsed that of her now-dead mistress. Valen's beauty, grace and bloodlust are legendary. Her slaughter of innocents is becoming well repeated in tavern folk-tales.~
+@1082 = ~Interestingly enough, there are few accurate reports of her appearance. It would seem that no one who has faced her ire has lived to tell the tale.~
+@1083 = ~(sweetly) And you would do well to avoid including a description of me in your little memoirs, bard, if you value your kidneys.~
+
+// Sister Farielle
+@1090 = ~Waukeen! One of those monsters from the crypts has dared to enter this holy sanctuary. Grant me the power to drive it out and smite it from this plane!~
+
+
+// Phylidian
+@1100 = ~And they were right, little one. There are already brighter moths circling <CHARNAME>'s flame.~
+@1101 = ~I haven't had the chance to chase one of my own in ... well, I can't even remember. I do hope you put up a struggle!~
+
+// Gromnir
+@1110 = ~I don't know about <CHARNAME>, but I'm certainly looking forward to sinking my teeth into you. I can smell your hearty half-orc blood from here. Prepare for the Final Sleep, fool!~

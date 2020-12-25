@@ -1,0 +1,122 @@
+@1 = ~E chi potresti mai essere tu?~
+
+@2 = ~Chi sono io? Perché dovresti perdere tempo con me? Ma visto che me lo chiedi ... Io sono Valen. Posso chiederti di dedicarmi un momento e ascoltare la mia offerta?~
+
+@9 = ~Sei molto pallida ... quasi "troppo" pallida. Sei ferita? ~
+
+@3 = ~Ho acquisito di recente ... una pelle sensibile. Forse per il troppo tempo passato al chiuso. Comunque, sono qui per parlarti di un'offerta allettante. Acconsentirai ad ascoltarmi?~
+
+@4 = ~E' pieno di scrittura *vampirica* dalle lettere scarlatte. Perchè dovrei fidarmi?~
+
+@5 = ~Potresti fare di peggio che allearti con i figli della notte, <CHARNAME>. Di molto, molto peggio.~
+@6 = ~Se continui su questa via, potresti ritrovarti a scavare la tua stessa tomba, piuttosto che parlare semplicemente con le creature nate da essa.~
+@7 = ~Mi sembri un <RACE> intelligente. Parla con la mia Signora, <CHARNAME>, o potrei trovarmi a dover farti del male.~
+@8 = ~C'è una guerra tra gilde in questa città, <CHARNAME>, e tu stai lavorando per i perdenti. Incontrati con la mia Signora. Prendi in esame la sua offerta. Salva la tua stessa vita e quella della tua amica scomparsa.~
+
+/////////////////////////////////////////////////////////////////////
+
+@20 = ~In ogni caso, sono pronta ad offrirti un valido aiuto. Ho ordinato a Valen, un devoto membro e servo della mia ... famiglia ... di assisterti in questa missione.~
+@21 = ~Lei è desiderosa di unirsi a te per la tua ... caccia ... e obbedirà alle tue parole come se fossero le mie. E' proprio qua dietro che ti aspetta pazientemente.~
+@22 = ~Comunque, le è stato ordinato di abbandonarti nel caso il tuo gruppo diventi ...  troppo buono.~
+@23 = ~Sfrutta ampiamente ciò che ha da offrirti ... o no. Basta che ti assicuri di compiere il lavoro assegnato.~
+@24 = ~E per i Ladri Tenebrosi ...~
+
+/////////////////////////////////////////////////////////////////////
+@100 = ~Cosa posso fare per te, <CHARNAME>?~
+  @101 = ~"Cosa" sei, Valen?~
+@102 = ~Come sono sicura che tu avrai già supposto, sono una delle più recenti ... creazioni di Bohdi.~
+@103 = ~Prima di inserirmi nel cuore della sua famiglia amorevole, ero una ladra molto abile e una criminale part-time. Così come molti ... umani ... non ero capace di vivere onestamente per le vie di Athkatla.~
+@104 = ~Entrai nel giro da piccola e passai diversi anni come una semplice teppista, affinando le mie capacità con i coltelli nei vicoli. Non mi interessava niente tranne che la forza bruta e non mi preoccupavo neanche della delicatezza richiesta per accoltellare qualcuno alle spalle.~
+@105 = ~Tanova mi trovò prima della Guardia Cittadina e mi portò da Bodhi. Pensava avesse trovato un barlume di talento in me.~
+@106 = ~Io mi opposi, ovviamente. Quando mi fu concesso un incontro con la mia Signora per la prima volta, pensai solamente a scappare.~
+@107 = ~Ma lei eliminò subito la mia volontà tanto velocemente come il sole evapora la nebbia.~
+@108 = ~Con una sola occhiata mi conquistò per la vita ... e oltre. Aveva dei piani, come puoi vedere. I maledetti Ladri Tenebrosi dovevano essere indeboliti ... disturbati ... illusi e catturati.~
+@109 = ~Le sarei servita per questo compito. Ma prima, avrei dovuto imparare di più sulla vita di un ladro.~
+@110 = ~La mia Signora mi ha detto di diventare un ladro ... e io ho obbedito. Con l'aiuto della sua reputazione e dei suoi soldi, sono stata allenata di nascosto dai Coltelli della Notte in una città vicina. Ho abbandonato la mia vita da combattente; l'ho messa da parte e non l'ho più ripresa.~
+@111 = ~Quando vide il ladro che ero diventata, la mia Signora festeggiò. Ero diventata quasi lo strumento perfetto. Era la notte in cui mi diede l'Abbraccio ... e tra le sue braccia mi accorsi della bellezza del mondo dell'oscurità.~
+@112 = ~Sembra che gli umani sappiano dedicarsi separatamente alle loro professioni, passando da una all'altra solo decidendo di farlo. I non-morti sono molto più ... generici ... nelle loro occupazioni.~
+@113 = ~Quando mi risvegliai dalle cure amorevoli della mia Signora, scoprii che la mia bravura da combattente era tornata e aveva cominciato a coesistere con le mie abilità da giocoliere. Ero pronta per servire la mia Signora come un rinforzo e come un sorvegliante.~
+@114 = ~ Ho portato a termine molti compiti per la sua... soddisfazione. Uno dei più recenti è stato quello di riferirti il suo desiderio di incontrarti. E adesso sono qui con te, pronta per realizzare i suoi desideri.~
+  @121 = ~Cosa puoi fare per me, Valen?~
+@122 = ~La mia Signora mi ha ordinato di unirmi al tuo gruppo e di viaggiare sotto il tuo commando ... assicurandomi che i tuoi compagni di viaggio non siano baluardi della bontà e della moralità.~
+@123 = ~Ti servirò come una guerriera e come una ... investigatrice. Sono particolarmente brava a rimuovere lucchetti fastidiosi, evitare trappole e non farmi notare dagli altri. Sono anche in grado di giocare la mia parte in un combattimento.~
+@124 = ~Alla fine sarai tu a decidere cosa farmi fare, <CHARNAME>. Posso andare in perlustrazione senza essere vista, rimuovere le trappole dal tuo cammino e pugnalare alle spalle i tuoi possibili nemici.~ 
+@125 = ~Tieni bene in mente che io ho forti ... istinti. Obbedirò ai tuoi ordini, sia chiaro, ma se mi lascerai libera di agire, non esiterò ad attaccare i tuoi nemici.~ 
+@126 = ~Ma posso anche non far niente. Sei libero di rifiutare il mio aiuto, fino a quando soddisferai le richieste della mia Signora.~
+@127 = ~Se accetterai il mio però, ricorda una cosa: a differenza dei tuoi compagni mortali, io non posso tornare in vita se vengo uccisa. La morte per i non-morti è Definitiva.~
+
+@131 = ~Niente ora come ora, Valen.~
+@141 = ~Unisciti a me, Valen.~
+@142 = ~Molto bene, <CHARNAME>. Iniziamo la caccia!~
+
+@200 = ~Non ti servo più, <CHARNAME>?~
+@201 = ~No Valen, è stato solo un mio errore. Torna nel gruppo.~
+@202 = ~Sì, Valen. Aspettaci qua.~
+
+@300 = ~Mi dispiace, <CHARNAME>, ma non posso viaggiare con un Santo Inquisitore di Torm. Io devo ... no, non importa, andrà bene lo stesso.~
+@301 = ~Mi dispiace, <CHARNAME>, ma quella chierica di Baervan e io non siamo affatto degli ottimi compagni di viaggio. Me ne vado dal gruppo, almeno fino a quando lei sarà con te.~
+@302 = ~Mi dispiace, <CHARNAME>, ma non ho intenzione di viaggiare con un chierico di Helm. Me ne andrò dal gruppo fino a quando questo ... Anomen ... rimarrà con te.~
+@303 = ~Mi dispiace, <CHARNAME>, ma questa campionessa di Arvoreen e io non andremo avanti per molto. Chiamala pure una sensazione, ma devo lasciarti fino a quando lei sarà nel gruppo.~
+
+@310 = ~Mia Signora! Ho servito <CHARNAME> come ordinato. Ma ora, prendetemi con voi: chiaramente a <PRO_HESHE> non serve più il mio aiuto contro I Ladri Tenebrosi.~
+@311 = ~Mi sembra giusto. I Ladri Tenebrosi non sono più niente ora. Il mio caro fratello ha tutti gli strumenti che gli servono! Posso sentire un'anima dentro di me.~
+@312 = ~Tutto questo, mi cara Valen, significa che non ho più bisogno di *te*. Il tuo primo obiettivo è stato quello di infiltrarti tra i Ladri Tenebrosi e di ottenere abbastanza corpi freschi per le macchinazioni di mio fratello. E l'hai compiuto alla perfezione. Il tuo secondo obiettivo è stato quello di assicurarti che <CHARNAME> non morisse mentre portava a termine le nostre piccole ... missioni.~
+@313 = ~E di nuovo, sei stata ammirevole per il lavoro compiuto. Adesso però, non sei più utile. E' l'ora di abbandonarti, proprio come farei con qualsiasi oggetto.~
+@314 = ~Vi supplico, mia Signora, riconsideratemi! Posso ancora esservi d'aiuto! La mia vita è vostra.~
+@315 = ~Cara Valen... non me ne può importare di meno, ma soprattutto non ho tempo da perdere con te. Il richiamo della Caccia è forte dentro di me e continuo a sognare l'eccitazione dell'inseguimento. Se realmente vuoi aiutarmi ...~
+@316 = ~Oh, si, mia Signora!~
+@317 = ~... allora rimani con <CHARNAME> e combatti contro di me. Percorri questo Labirinto, sotto al manicomio e assicurati che <CHARNAME> sopravviva agli scontri. Preparati a scontrarti contro di me, Valen, solo per il conflitto in cui siamo cresciute.~
+@318 = ~Il tuo destino è unito a quello del <RACE> ora, bambina mia. La prossima volta che ci incontreremo, mi aspetto di sentire affondare i tuoi artigli nella mia gola ... o i miei nella tua.~
+// "Childe" is correct here in English. 
+@319 = ~No, mia Signora, vi prego!~
+@320 = ~Silenzio, Valen! Ho dato un ordine e tu devi obbedire. Obbedisci. Obbedisci!!~
+@321 = ~Sì, Bodhi. Come desideri. Aiuterò <CHARNAME> a cacciarti.~
+@322 = ~Bene, allora iniziamo.~
+
+@330 = ~Bodhi, ho servito <CHARNAME> nelle ombre sotto al manicomio. Sono stata con <PRO_HIMHER> attraverso il Sottosuolo!. Ho eseguito il vostro ordine, mia Signora. Adesso però, fatemi tornare con voi!~
+@331 = ~Ah, mia povera, folle Valen. L'ultima volta devi aver sentito il suono, ma non le parole. Con la mia anima ripristinata e i piani di mio fratello completati ... non mi servi più a niente.~
+@332 = ~Vattene via, mia cara neofita di un tempo. Non meriti la mia attenzione.~
+@333 = ~Mia Signora! Ma cosa farò senza di voi? Non so dove andare.~
+@334 = ~Bah! Mi fai perdere tempo con le tue patetiche lagne quando il sangue brucia nelle mie vene. <CHARNAME> è qua e io devo banchettare col <PRO_HISHER> sangue.~
+@335 = ~Se vuoi realmente un ordine, allora te lo darò: aiuta <CHARNAME>. Combatti la <PRO_HISHER> ultima battaglia, così sarà molto più interessante per me.~ 
+@336 = ~Come ... come desiderate, mia Signora.~
+@337 = ~Ottimo, preparati allora!~
+
+@400 = ~Valen, un tempo servitrice enigmatica di Bodhi, è diventata un valido (anche se non necessariamente fidato) membro del tuo gruppo.~
+@401 = ~Valen, avrò bisogno di tutta la mia concentrazione per il prossimo combattimento.  Non venire con me se non posso contare sulla tua completa lealtà. Non è questo il momento di unire il tuo destino a quello dei miei nemici.~
+@402 = ~Valen, non è la tua guerra. Con Bodhi morta, sei libera di fare ciò che vuoi. Non è necessario che mi segua nello scontro contro quel maledetto mago.~
+
+@403 = ~Hai la mia parola, <CHARNAME>. La mia non-vita è sotto la tuo comando. Prima era solo il desiderio di Bodhi. Ora è quello mio. Hai dimostrato di essere più forte di Bodhi. Più forte dei non-morti. Più forte di Irenicus stesso.~
+@404 = ~Come potrei non allearmi con una persona di tale forza? Il tuo potere mi chiama e io ne sono attratta come una falena lo è da una fiamma. Sono pronta a servirti, mio <PRO_LADYLORD>.~
+
+@405 = ~Libertà? Non farmi ridere. Nessuno di noi è libero, <CHARNAME>.  Senza Bodhi ho la libertà di avere una mia volontà ... che responsabilità enorme.~
+@406 = ~La libertà non è sempre gradevole, <RACE>. Quando ero sottomessa al volere di Bodhi non avevo né dubbi né domande. Se non ti seguissi nella prossima stanza, cosa poteri mai fare?~
+@407 = ~Vagare per il mondo? Iniziare a costruire il mio nido di vampiri? No. Sono nata per agire, non per riflettere. Il mio posto è con te. Il mio sangue brucia aspettando la battaglia.~
+
+// Salvanas and Valen
+@500 = ~Bè sal-ve. Quando ti ho visto entrare mi sono chiesto "Salvanas, quale creatura può possedere una grazia così intrigante e sovrannaturale?"~
+@501 = ~A quale creatura ti riferisci? Forse una creatura che proverebbe grande piacere nel rubare sia il tuo borsellino, sia il tuo soffio vitale, sia la tua mortalità?~
+@502 = ~Mia cara, il mio corpo desidera ardentemente *perire* per te.~
+@503 = ~Anche io all'improvviso desidero soddisfare il mio appetito con il sangue che ti scorre nelle arterie, bestia. Un desiderio ... davvero ...irresistibile.~
+
+@504 = ~Um..um..um.. misericordia, che ore sono? Devo scappare ...ehm, correre per non perdere la mia nave!~
+
+// Talk Directly To Valen
+@600 = ~Sì, <CHARNAME>?~
+
+@601 = ~Mi piacerebbe che la finissi di nasconderti in continuazione.~
+@602 = ~Nasconditi dai nostri nemici, Valen.~
+@603 = ~Evita di attaccare i nostri nemici senza che prima te lo ordini io. Mi rendo conto che va contro la tua natura, ma i nostri movimenti richiedono una maggiore delicatezza.~
+@604 = ~E' l'ora di un pò di azione: sei libera di attaccare I nostri nemici.~
+@605 = ~Puoi controllare che la tua armatura e i tuoi artigli siano in buone condizioni?~
+@606 = ~Niente, non preoccuparti.~
+@607 = ~Smettila di controllare la mente dei nostri nemici.~
+@608 = ~Dimentica quanto detto prima: usa i tuoi poteri mentali sui nostri nemici.~
+@609 = ~Non ho più bisogno che tu vada alla ricerca di trappole, Valen.~
+@610 = ~Valen, per piacere controlla di nuovo se ci sono trappole da queste parti.~
+
+
+@697 = ~Ma certo! <CHARNAME>, a volte dimostri un pò di saggezza fortunatamente.~
+@698 = ~Non sono d'accordo, <CHARNAME>, ma faro come chiesto .... fino ad un certo punto. A volte il richiamo del sangue è troppo forte per essere ignorato.~
+@699 = ~Sarà fatto.~
+

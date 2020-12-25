@@ -1,0 +1,54 @@
+@1 = ~Blighted by the Sun~
+@2 = ~Valen's Armor~
+@3 = ~Valen's Armor
+Valen's shadowy armor was a gift from her Mistress in order to help her survive outside of the flock. It is light and flowing, more of a hooden ermine wrap than a true leather cuirass. Powerful unholy enchantments woven into the fabric prevent the true light of the sun from vaporizing Valen's vampiric flesh. She is still decidedly weakened under its glare, however. 
+
+As a fledgling vampire, Valen has the standard undead immunities to hold, charm, death magic and poison. She is resistant to cold and electrical damage. She regenerates one hit point every two seconds.~ 
+@4 = ~Valen's Armor
+Valen's shadowy armor was a gift from her Mistress in order to help her survive outside of the flock. It is light and flowing, more of a hooden ermine wrap than a true leather cuirass. Powerful unholy enchantments woven into the fabric prevent the true light of the sun from vaporizing Valen's vampiric flesh. She is still decidedly weakened under its glare, however. 
+
+As a mature vampire, Valen has the standard undead immunities to hold, charm, death magic and poison. She cannot be harmed by non-magical weapons. She is resistant to cold and electrical damage. She regenerates one hit point every second.~
+@5 = ~Valen's Armor
+Valen's shadowy armor was a gift from her Mistress in order to help her survive outside of the flock. It is light and flowing, more of a hooden ermine wrap than a true leather cuirass. Powerful unholy enchantments woven into the fabric prevent the true light of the sun from vaporizing Valen's vampiric flesh. She is still decidedly weakened under its glare, however. 
+
+As an elder vampire, Valen has the standard undead immunities to hold, charm, death magic and poison. She cannot be harmed by non-magical or +1 weapons. She is resistant to cold and electrical damage. She regenerates one hit point every second.~ 
+@6 = ~Valen's Armor
+Valen's shadowy armor was a gift from her Mistress in order to help her survive outside of the flock. It is light and flowing, more of a hooden ermine wrap than a true leather cuirass. Powerful unholy enchantments woven into the fabric prevent the true light of the sun from vaporizing Valen's vampiric flesh. She is still decidedly weakened under its glare, however. 
+
+As a vampire matriarch, Valen has the standard undead immunities to hold, charm, death magic and poison. She cannot be harmed by non-magical, +1 or +2 weapons. She is resistant to cold and electrical damage. She regenerates two hit points every second.~ 
+@7 = ~Valen's Claws~
+@12 = ~Valen's Claws
+Like those of all vampires, Valen's claws are a conduit to the negative material plane. Her icy touch counts as a +2 weapon, deals 1d6+2 points of damage and drains one level from her target.~
+@8 = ~Valen's Claws
+Like those of all vampires, Valen's claws are a conduit to the negative material plane. Her icy touch counts as a +2 weapon, deals 1d6+2 points of damage and drains 2 levels from her target.~
+@9 = ~Valen's Claws
+Like those of all vampires, Valen's claws are a conduit to the negative material plane. Her icy touch counts as a +3 weapon, deals 1d6+3 points of damage and drains 3 levels from her target.~
+@10 = ~Valen's Claws
+Like those of all vampires, Valen's claws are a conduit to the negative material plane. Her icy touch counts as a +4 weapon, deals 1d6+4 points of damage and drains 4 levels from her target.~
+@11 = ~Valen's Claws
+Like those of all vampires, Valen's claws are a conduit to the negative material plane. Her icy touch counts as a +5 weapon, deals 1d6+5 points of damage and drains 5 levels from her target.~
+@15 = ~When asked about her past, VALEN gives you a strange smirk. She briefly elaborates that she was a full-time thug before she met her Mistress Bodhi. Under Bodhi's direction she learned the ways of the thief and when she was made a vampire her two sets of skills merged. Bodhi has commanded Valen to obey you, and she has so far ... but there is something disconcerting about her and her shifting loyalties.~
+
+@16 = ~Cynara~
+
+// The Hunters
+@20 = ~Buffy~
+@21 = ~Faith~
+@22 = ~Kendra~
+@23 = ~Van Helsing~
+@24 = ~Yes, we have slain the fiend! Rejoice!~
+@25 = ~Lathander, help me triumph over this monster!~
+@26 = ~Lathander, reveal my foes to me!~
+@27 = ~Lathander, purge this evil! Don't let it recover!~
+@28 = ~Morninglord! Protect this humble servant!~
+
+@4001 = ~
+
+** WARNING **
+
+It looks like you do not have BG2: Throne of Bhaal installed. Valen
+requires ToB. This installation will probably fail. Go install ToB! 
+
+** WARNING ** 
+
+~

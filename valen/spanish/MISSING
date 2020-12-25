@@ -1,0 +1,16 @@
+
+All Strings in [american/epilogue.tra] are also in [spanish/epilogue.tra]
+
+All Strings in [american/hunt1.tra] are also in [spanish/hunt1.tra]
+
+Strings in [american/setup.tra] that are not in [spanish/setup.tra]:
+    4001
+
+
+Strings in [american/valen.tra] that are not in [spanish/valen.tra]:
+     607     608     609     610
+
+
+All Strings in [american/valenint.tra] are also in [spanish/valenint.tra]
+
+All Strings in [american/valentob.tra] are also in [spanish/valentob.tra]

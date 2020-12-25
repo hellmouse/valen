@@ -1,0 +1,125 @@
+@1 = ~Und wer könntet ihr sein?~
+
+@2 = ~Wer ich bin? Warum solltet ihr eure Aufmerksamkeit auf mich richten? Aber wenn ihr schon fragt... Ich bin Valen. Könntet ihr mir einen Moment eurer Zeit überlassen und euch mein Angebot anhören?~
+
+@9 = ~Ihr scheint mir sehr blass zu sein... fast unnatürlich bleich. Seid ihr krank? ~
+
+@3 = ~Ich habe empfindliche Haut. Vielleicht zu viel Zeit drinnen verbracht. Wie auch immer, ich bin hier um euch ein verführerisches Angebot zu machen. Leiht ihr mir euer Ohr?~
+
+@4 = ~Das Wort "Vampir" schwebt ja schon in leuchtend großen Buchstaben über euch! Warum sollte ich euch trauen?~
+
+@5 = ~Ihr könntet noch weit schlimmeres anrichten als euch mit den Kindern der Nacht zu verbünden, <CHARNAME>. Sehr viel schlimmeres.~
+@6 = ~Wenn ihr weiterhin eurem jetzigen Weg folgt werdet ihr euch selbst ein Grab schaufeln, statt einfach mit den Kreaturen zu reden, die aus selbigem kriechen.~
+
+@7 = ~Ihr bestecht durch eure Intelligenz, <RACE>. Sprecht mit meiner Herrin, <CHARNAME>, ehe ich meinerseits zustechen muß.~
+@8 = ~Ein Gildenkrieg tobt in dieser Stadt, <CHARNAME>, und momentan arbeitet ihr für die Verlierer. Trefft meine Herrin und denkt über ihr Angebot nach. Rettet euer Leben und das eurer Freundin.~
+
+/////////////////////////////////////////////////////////////////////
+
+@20 = ~In jedem Falle bin ich vorbereitet, euch ein wenig Unterstützung anzubieten. Valen, eine hervorragende Dienerin und Mitglied meiner... Familie... hat den Befehl erhalten, euch in dieser Mission zu unterstützen.~
+@21 = ~Sie ist schon übereifrig, sich eurer kleinen... Jagd... anzuschließen und wird euren Worten gehorchen, als ob es meine wären. Sie wartet geduldig außerhalb unseres Hörbereiches auf euch.~
+@22 = ~Wie auch immer, ich habe ihr befohlen euch zu verlassen, wenn sich eure Gruppe... ins übermesslich Gute entwickelt.~
+@23 = ~Zieht eure Vorteile aus dem was sie anzubieten hat... oder lasst es bleiben. Stellt nur sicher, daß ihr die euch gestellte Aufgabe erfüllt.~
+@24 = ~Wie für die Schattendiebe...~
+
+/////////////////////////////////////////////////////////////////////
+@100 = ~Was kann ich für euch tun, <CHARNAME>?~
+  @101 = ~Was *seid* ihr, Valen?~
+@102 = ~Ich bin mir sicher, daß ihr das bereits vermutet hattet. Ich bin eine von Bodhi's jüngsten... Kreationen.~
+@103 = ~Bevor sie mich in den Schoß ihrer liebenden Familie aufnahm, war ich eine kümmerliche Diebin und gelegentliche Mörderin. Wie so viele... Menschen... ich war nicht fähig, in den Straßen Athkatlas für mich selbst zu sorgen.~
+@104 = ~In Jungen Jahren verfiel ich dem Verbrechen und verbrachte mehrere Jahre als Raubmörderin, übte mein Talent mit dem Dolch in Hinterhöfen. Ich konnte nichts als rohe Gewalt ausüben und auch nicht mit dem Geschick, daß man benötigt jemandem in den Rücken zu stoßen, aufwarten.~
+@105 = ~Tanova hat mich vor den Wachen gefunden und mich zu Bodhi gebracht. Sie dachte, einen Funken Talent in mir zu sehen.~
+@106 = ~Natürlich sträubte ich mich zunächst. Als mir das erste mal eine Audienz bei meiner Herrin gewährt wurde, dachte ich nur noch an Flucht.~
+@107 = ~Sie entriß mir meine närrischen Illusionen von freiem Willen - Schneller als die Sonne den Morgennebel verbrennt.~
+@108 = ~Mit einem Blick in meine Augen nahm sie lebenslang von mir Besitz... und noch länger. Sie hatte etwas vor, wisst ihr. Die verhassten Schattendiebe mussten infiltriert werden. Unterbrochen. Aufgehalten und erobert werden.~
+@109 = ~Ich sollte ihr in dieser Sache dienlich sein. Aber zunächst hatte ich etwas über das Leben des Spitzbuben zu lernen.~
+@110 = ~Meine Herrin lehrte mich, eine Diebin zu werden... und ich sprang ihr hinterher und gehorchte. Mit ihrem Gold und ihrem Ruf hinter mir erhielt ich im Geheimen Training von den Nachtmessern in einer nahen Stadt. Ich vergaß mein Leben als Kämpferin Ich ließ es komplett hinter mir und blickte nicht mehr zurück.~
+@111 = ~Als sie die Diebin sah, zu der ich geworden war, war meine Herrin erfreut. Ich war ein beinahe perfektes Werkzeug. In dieser Nacht gab sie mir den Kuss... und in ihrer Umarmung fand ich die Schönheit der Welt der Dunkelheit.~
+@112 = ~Wie es aussieht können Menschen ihre Klasse aufs Eis legen, vom Kämpfer zum Dieb wechseln und sich fortan nur auf eine konzentrieren. Die Untoten sind weit... flexibler... in ihrem Streben.~
+@113 = ~Als ich erwachte, bemerkte ich, daß meine Erfahrung des Kämpfens zurückgekehrt war, um gleichzeitig mit meiner Erfahrung der Taschenspielerei zu existieren. Und ich ging, um meiner Herrin als Vollstreckerin und Aufseherin zu dienen.~
+@114 = ~Ich habe viele Aufgaben zu ihrer... Zufriedenstellung vollendet. Eine der letzten war es, euch von dem von ihr gewünschten Treffen zu berichten. Und nun stehe ich vor euch, bereit ihre Wünsche zu erfüllen.~
+  @121 = ~Was könnt ihr für mich tun, Valen?~
+@122 = ~Meine Herrin hat mir befohlen, mich eurer Gruppe anzuschließen und unter eurem Kommando zu reisen... vorrausgesetzt, daß ihr nicht mit Verfechtern des Guten und der Moral reist.~
+@123 = ~Ich werde euch als Kämpferin und als... Ermittlerin dienen. Ich bin im Schlösser knacken, dem vermeiden von Fallen und dem verstecken in den Schatten besonders gut. Ich habe mich auch im Kampf bewährt.~
+@124 = ~Mein Können wird eure Strategien verfeinern, <CHARNAME>. Ich kann als Scout dienen, die Fallen aus eurem Weg nehmen und euren angehenden Feinden in den Rücken fallen.~ 
+@125 = ~Bedenkt auch, daß ich starke... Instinkte habe. Ich werde euren Befehlen gehorchen, ja, aber nach meine eigenen Absichten werde ich nicht zögern eure Feinde anzugreifen oder mich auf einen solchen Angriff vorzubereiten.~ 
+@126 = ~Oder ich kann auch nichts tun. Ihr habt die Wahl meine Hilfe abzulehnen, so lange ihr die Forderungen meiner Herrin erfüllt.~
+@127 = ~Wenn ihr meine Hilfe jedoch annehmt, führt euch eins vor Auge: Im Gegensatz zu euren sterblichen Freunden kann ich nicht 'zurückgeholt' werden, wenn mein Körper zerstört wird. Für die Untoten ist der Tod das Ende.~
+
+@131 = ~Im Moment nicht, Valen.~
+@141 = ~Schließt euch mir an, Valen.~
+@142 = ~Nun gut, <CHARNAME>. Lasst uns die Jagd beginnen!~
+
+@200 = ~Seid ihr jetzt mit mir fertig, <CHARNAME>?~
+@201 = ~Nein, Valen. Kommt zurück zur Gruppe.~
+@202 = ~Ja, Valen. Wartet hier.~
+
+@300 = ~Es tut mir leid, <CHARNAME>, aber ich kann nicht mit einem heiligen Inquisitor von Torm zusammen reisen. I denke... das wird nicht gut gehen.~
+@301 = ~Es tut mir leid, <CHARNAME>, aber diese Priesterin von Baervan und ich würden erbärmliche Reisegefährten abgeben. Ich muß meinen Abschied nehmen, so lange sie euch folgt...~
+@302 = ~Es tut mir leid, <CHARNAME>, aber ich kann nicht mit einem Priester reisen, der Torm folgt. Ich muß eure Gruppe verlassen, solange dieser... Anomen ... in ihr ist.~
+@303 = ~Es tut mir leid, <CHARNAME>, aber diese Heilige Kriegerin von Arvoreen und ich würden nicht miteinander auskommen. Nennt es ein Gefühl. Ich muß euch verlassen, solange sie da ist.~
+
+@310 = ~Herrin Bodhi! Ich habe <CHARNAME> gedient, wie ihr befohlen habt. Nehmt mich nun mit euch: <PRO_HESHE> braucht meine Hilfe gegen gegen die Schattendiebe nicht länger.~
+@311 = ~Das ist richtig. Die Schattendiebe existieren nicht mehr. Mein Bruder hat alle Opferwerkzeuge, die er braucht. Und es hat funktioniert! Ich kann eine Seele in mir spüren.~
+@312 = ~All dies, meine liebe Valen, bedeutet, daß ich aus euch keinen weiteren Nutzen ziehen kann. Eure erste Aufgabe war es, die Schattendiebe zu infiltrieren und genug warme Körper für die Machenschaften meines Bruders zu organisieren. Das habt ihr gut gemacht. Eure zweite Aufgabe war es, sicher zu stellen, daß <CHARNAME> während unserer kleinen... Aufträge nicht stirbt.~
+@313 = ~Und wieder habt ihr eure Aufgabe gut erfüllt. Nun ist euer Dasein als mein Werkzeug zu Ende. Ihr seid nun abgelegt, so wie ich jedes Werkzeug ablegen würde.~
+@314 = ~Ich flehe euch an, Herrin, denkt noch einmal darüber nach! Ich kann euch immer noch dienen! Mein Leben ist in eurer Hand.~
+@315 = ~Arme Valen. Ich könnte mich nicht weniger um eure Worte kümmern, und ich habe auch wirklich nicht die Zeit dafür. Ich träume von der Verfolgung, die Lust auf Jagd pulsiert in meinen Adern. Wenn ihr mich wirklich zufriedenstellen wollt...~
+@316 = ~Oh, ja, Bodhi!~
+@317 = ~...dann bleibt bei <CHARNAME> und kämpft gegen mich. Durchgeht den Spießrutenlauf hier unter der Feste und stellt sicher, daß <CHARNAME> überlebt. Hebt eure Hände gegen mich, Valen, da wir nur im Kampf wirklich wachsen.~
+@318 = ~Euer Los ist es, mit dem <RACE> um euer Leben zu kämpfen, Kindchen. Wenn wir das nächste mal aufeinander treffen, erwarte ich eure Klauen an meiner Kehle zu spüren... oder meine an eurer.~
+@319 = ~Nein, Herrin, bitte!~
+@320 = ~Seid still, Valen! Ich habe euch meine Befehle gegeben und ihr sollt gehorchen. Gehorchen. Gehorchen!~
+@321 = ~Ja, Bodhi. Mein Wille ist euer. Ich werde <CHARNAME> in dieser eurer Treibjagd dienen.~
+@322 = ~Dann soll es beginnen.~
+
+@330 = ~Bodhi, ich habe <CHARNAME> in den Schatten unter der Zauberfeste gedient. Ich hielt mit <PRO_HIMHER> den Gefahren des Unterreiches stand. Ich habe eure Bitte erfüllt, Herrin. Nehmt mich zurück!~
+@331 = ~Ah, meine arme, närrische Valen. Ihr hättet letztes mal dem Ton und nicht den Worten lauschen sollen. Mit meiner wiederhergestellten Seele und den vervollständigten Plänen meines Bruders... Brauche ich euch nicht länger.~
+@332 = ~Fliegt fort, meine einst wertvolle Neubekehrte. Ihr seid außerhalb meiner Wahrnehmung.~
+@333 = ~Herrin! Was soll ich ohne euch tun? Ich habe doch kein Ziel!~
+@334 = ~Bah! Ihr verschwendet meine Zeit mit eurem pathetischen Gewimmer, während das Blut in meinen Adern von neuem pulsiert. <CHARNAME> ist hier und ich werde mit <PRO_HISHER> Blut feiern.~
+@335 = ~Wenn ihr wirklich einen Befehl braucht, dann befehle ich euch: Helft <CHARNAME>. Das macht ihn, <PRO_HISHER> letzten Kampf, so viel interessanter für mich.~ 
+@336 = ~Ähh... wie ihr wünscht, Herrin.~
+@337 = ~Gut. Lasst es beginnen!~
+
+@400 = ~Valen, einst Bodhis geheimnisvolle Dienerin, hat sich als nützliches (wenn auch nicht unbedingt vertrauenswürdiges) Mitglied eurer Gruppe herausgestellt.~
+@401 = ~Valen, ich brauche all meine Konzentration für den nächsten Kampf.  Kommt nicht mit mir, solange ich mich nicht auf eure unbedingte Loyalität verlassen kann. Dies ist nicht die Zeit für euch, euch wieder mit meinen Feinden zu verbünden.~
+@402 = ~Valen, das ist nicht euer Kampf. Jetzt, wo Bodhi nicht mehr ist, habt ihr die Freiheit, das zu tun was immer ihr wollt. Ihr müsst mir nicht in den Kampf gegen diesen wahnsinnigen Magier folgen.~
+
+@403 = ~Ihr habt meine Loyalität, <CHARNAME>. Mein untotes Leben gehört euch. Zuvor war das nur Bodhis Wille, nun ist es mein eigener. Ihr habt euch als stärker als Bodhi erwiesen. Stärker als die Untoten. Und stärker als Irenicus.~
+@404 = ~Wie könnte ich mich solcher Stärke verwehren? Eure Macht ruft mich, und ich bin wie eine Motte der Flamme verfallen. Ich warte nur auf euer Zeichen, <PRO_LADYLORD>.~
+
+@405 = ~Freiheit? Bringt mich nicht zum lachen. Niemand von uns ist frei, <CHARNAME>.  Ohne Bodhi habe ich die Freiheit meines eigenen Willens... was für eine große Verantwortung.~
+@406 = ~Freiheit ist nicht immer angenehm, <RACE>. Als Bodhi meinen Willen unterworfen hatte, hatte ich keine Zweifel und kein Gewissen. Wenn ich euch nicht in den nächsten Raum folgen würde, was sollte ich tun?~
+@407 = ~Die Welt bereisen? Meinen eigenen Vampirclan gründen? Nein. Ich bin ein Wesen der Aktion, nicht der Nachahmung. Mein Platz ist bei euch. Mein Blut pulsiert schon in Vorfreude auf den Kampf.~
+
+// Salvanas and Valen
+
+@500 = ~Ja, hal-lo. Ich erspähte Euer flatterndes Dasein, und fragte mich: "Salvanas, welch betrügerisches Wesen könnte wohl so besessen von intrigantem übernatürlichen Anmut sein ?"~
+
+@501 = ~Ja wirklich, was für ein Wesen ? Möglicherweise eines, welches mit größten Freuden den Geldbeutel stiehlt, den Atem nimmt und Eure Vergänglichkeit, alles in ein und demselbem  Moment ?~
+
+@502 = ~Meine Liebe, mein Körper lechzt danach, seinen Durst mit Eurer geschmeidigen Flüssigkeit zu stillen.~
+
+@503 = ~Und ich bemerke ein plötzliches Verlangen, meinen Appetit mit dem Inhalt Eurer Arterien zu befriedigen, Vieh. Voll und Ganz...überwältigend...begierig.~
+
+@504 = ~Ah..Ah..Ah..eine Gnade, ist das die Zeit ? Ich muß fliehen...ah, macht schnell, damit ich mein Schiff nicht verpasse !~
+
+
+
+// Talk Directly To Valen
+@600 = ~Ja, <CHARNAME>?~
+@601 = ~Bitte hör auf dich zu verstecken, Valen.~
+@602 = ~Valen, versuch dich vor dem Feind zu verbergen.~
+@603 = ~Ich bitte Dich, unsere Feinde nicht mehr eigensinnig anzugreifen. Ich weiß, daß das Deiner Natur widerstrebt, aber um uns alle zu schützen, ist manchmal auch Disziplin erforderlich~
+@604 = ~Die Zeit für Taten ist gekommen: Gib Deinem Instinkt freien Lauf und nimm Dich unserer Feinde an !~
+@605 = ~Wie geht es Dir und Deinen Klauen, ist alles in Ordnung ?~
+@606 = ~Ach nichts.~
+@607 = ~Bitte versuche nicht mehr die Gedanken unserer Feinde zu kontrollieren!~
+@608 = ~Ich widerrufe meinen früheren Befehl: wendet Eure psychischen Kräfte gegen unsere Feinde.~
+@609 = ~Es ist nicht länger nötig, daß Ihr nach Fallen sucht, Valen.~
+@610 = ~Valen, bitte haltet wieder Ausschau nach Fallen.~ 
+
+@697 = ~Oh, ja ! <CHARNAME>, Du zeigst Weisheit, trotz allem.~
+@698 = ~Ich mach das nicht gerne, <CHARNAME>, aber ich werde tun was Du sagst .... bis zu einem bestimmten Grad. Manchmal ist das Lied des Blutes zu laut, um es zu ignorieren.~
+@699 = ~Gut, gut.~

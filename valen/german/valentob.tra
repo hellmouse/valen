@@ -1,0 +1,59 @@
+// Illasera
+@1001 = ~Illasera die Schnelle, hä ? Ihr werdet gleich Illasera die Tote sein, Flittchen. Niemand mit einem Haarschnitt so häßlich wie Eurem könnte für <CHARNAME> eine Herausforderung sein. Ihr hättet wenigstens ein paar Fallen in Eurem Hinterhalt stellen können.~
+@1002 = ~Still, Hündin. Ihr seid kein Bhaal-Spross: Ihr seid keine Bedrohung für mich. <CHARNAME> allein ist hier von Bedeutung ... und sogar <PRO_HESHE> wird uns nicht gefährlich sein und leben.~
+
+// Sarevok
+@1010 = ~Vertraut mir, Krieger, das Leben wird überbewertet. Ihr habt die unendliche Freiheit des Todes ? Warum dann der Wunsch nach den Launen des Lebens ?~
+@1011 = ~Ich weiß nicht wer Ihr seid, Vampir, aber unsere Situationen lassen sich nicht vergleichen. Unser Untod garantiert Euch Bewegungsfreiheit und einen physischen Körper. Mir fehlen diese ... Annehmlichkeiten.~
+@1012 = ~Natürlich, ich bin viele Male gestorben ... und doch bin ich noch da. Andererseits seid ihr auf dem letzten Teil der Reise.~
+@1013 = ~Vertraut mir, Krieger ... ich weiß genug über den Endgültigen Tod.~
+@1014 = ~Ja, das kann ich mir vorstellen. Wie es auch sei, mein Angebot gilt <CHARNAME>. Ihr seid höchst ... ungeeignet ... mir zu geben, was ich möchte.~
+@1015 = ~Falls Ihr einmal Euren Körper verloren haben solltet, könnte es gut sein, daß ich höchst ... geeignet ... sein werde für Eure Wünsche.~
+@1016 = ~Bah, ich habe größere Sorgen als mich mit Mängeln abzugeben.~
+
+@1020 = ~Oh, I like this idea, <CHARNAME>. From what I've heard of Sarevok he would be the perfect addition to our little team. Ambition, power, strength! How very exciting.~
+@1021 = ~I am not some bauble to be fawned over by the dead, girl.~
+@1022 = ~Ooh, now he's playing gruff and hard to get.~
+@1023 = ~(sigh) <CHARNAME>, through our reasons differ, I must agree with your pet vampire.~
+
+// Mel
+@1030 = ~(flüsternd) Passt auf, <CHARNAME>. Ich habe genug Fallen gestellt, um jemanden auf eine Meile zu bemerken. Diese Frau ist ungefähr so feinfühlig wie ein Admantit-Golem ... will heißen, daß sie offensichtlich denkt, nichts befürchten zu müssen.~
+@1031 = ~Sie ist entweder verrückt, wahnsinnig oder beides.~
+@1032 = ~Was bringt Ihr hier, <CHARNAME>?~
+
+// Saradush Jailer
+@1033 = ~Im Moment können wir kommen und gehen, wie es uns gefällt. Und da niemand sonst hier ist, um Eure Schreie zu hören, können wir auch tun was wir wollen.~
+@1034 = ~Wovon redet Ihr, Frau ? Sagt, Ihr seht aus wie die Leute, die vor den Krypten im Süden der Stadt herumlungern.~
+@1035 = ~Interessante Erkenntnis, Blutsack. Ihr zeigt eine gute Fassade, und doch kann ich Eure Angst bis hierher spüren. Zeit zu sterben !~
+@1036 = ~Mammi!~
+
+// Saradush Harlot
+@1040 = ~Vertraut mir, Liebes, wir werden sein Blut aus einem Kelch drinken.~
+
+// Kiser
+@1050  = ~Kann sein, Dieb. Ich erkenne einen Betrug, wenn ich einen sehe. Was sagt Ihr, lassen wir uns auf den Handel ein und schmieren unsere Handflächen ein wenig. What say you let us in on the deal and grease our palms a bit? Ihr könntet uns überzeugen, Euch nicht gleich hier zu töten.~
+
+// Errard
+@1060 = ~Wenn Euch der Tod nicht stoppen kann, dann vielleicht Sie. Seid Ihr bereit zu sterben, Winzling.~
+
+// Squip
+@1070 = ~Gebt es zu, Ihr habt das Zauberbuch, Taschendieb.~
+@1071 = ~Was ? Was erzählt Ihr hier ?~
+@1072 = ~Kann sein, arme Kreatur. Wie Ihr das Volk eingelullt habt, welches nach einem Zeichen sucht, war ein wenig zu offensichtlich. Die kleinen, schmutzigen Fußspuren besiegelten den Handel. Nun laßt uns das Zauberbuch mal sehen oder ich werde Euch Eure Eingeweide zeigen.~
+
+// Volo 
+@1080 = ~erzählt mir über Valen.~
+@1081 = ~Ah, eine Rose des Schattens. Valens Ruhm (oder vielleicht Schmach) hat den Ihrer nun schon toten Herrin weit überragt. Valens Schönheit, Anmut und Lust nach Blut sind legendär. Ihre Morde an Unschuldigen wird immer wieder gern an den Tischen der Tavernen erzählt.~
+@1082 = ~Höchstinteressant, es gibt nur wenige genaue Berichte über Ihr Auftreten. Es scheint so, daß niemand, der Ihren Zorn erlebt hat, überlebte, um Ihre Geschichte zu erzählen.~
+@1083 = ~(seuselnd) Und Ihr würdet gut daran tun, genauere Beschreibungen von mir in Euren kleinen Aufzeichnungen zu vermeiden, wenn Euch Eure Nieren lieb sind.~
+
+// Sister Farielle
+@1090 = ~Waukeen! Eines dieser Monster aus den Krypten wagt es diese heilige Stätte zu betreten. Gib mir die Kraft, es zu vertreiben und es zu zerschmettern !~
+
+
+// Phylidian
+@1100 = ~Und sie hatten Recht, Kleines. Es gibt schon hellere Motten, die um <CHARNAME>'s Flamme kreisen.~
+@1101 = ~Ich hatte nie die Chance einen meiner ... zu jagen ... ich kann mich nicht erinnern. Ich hoffe, Ihr denkt an einen Kampf !~
+
+// Gromnir
+@1110 = ~Ich kenne diesen <CHARNAME> nicht, aber ich bin sehr erfreut meinen Zahn in Euch hineinzuboren. Ich kann Eurer herzhaftes halb-orkisches Blut von hier riechen. Seid bereit für den Endgültigen Schlaf, Narr !~

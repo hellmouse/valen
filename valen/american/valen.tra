@@ -1,0 +1,120 @@
+@1 = ~And who might you be?~
+
+@2 = ~Who am I? Why would you pay any attention to me? But since you ask ... I am Valen. Might I convince you to spare a moment of your time and listen to my proposal?~
+
+@9 = ~You seem very pale ... almost unnaturally pale. Are you injured? ~
+
+@3 = ~I have recently acquired ... sensitive skin. Too much time spent indoors, perhaps. However, I am here to speak to you about a tempting offer. Will you grant me your ears?~
+
+@4 = ~This has "vampire" written all over it in scarlet letters. Why should I trust you?~
+
+@5 = ~You could do worse than to ally yourself with the children of the night, <CHARNAME>. Much, much worse.~
+@6 = ~If you continue on your present path you may find yourself digging a grave, rather than merely talking with the creatures born of it.~
+@7 = ~You strike me as an intelligent <RACE>. Talk with my Mistress, <CHARNAME>, lest I find myself striking you.~
+@8 = ~There is a guild war in this city, <CHARNAME>, and you are currently working for the losers. Meet with my Mistress. Consider her offer. Save your own life and that of your missing friend.~
+
+/////////////////////////////////////////////////////////////////////
+
+@20 = ~In any event, I am prepared to offer you some assistance. Valen, a dedicated servant and member of my ... family ... has been ordered to assist you in this mission.~
+@21 = ~She is eager to join your little ... hunt ... and will obey your words as if they were my own. You can find her waiting patiently just out of our hearing.~
+@22 = ~However, she has been ordered to leave you if your party becomes ...  over-pious.~
+@23 = ~Take advantage of what she has to offer ... or not. Just make sure you perform the assigned task.~
+@24 = ~As for the Shadow Thieves ...~
+
+/////////////////////////////////////////////////////////////////////
+@100 = ~What can I do for you, <CHARNAME>?~
+  @101 = ~Just what are you, Valen?~
+@102 = ~As I am sure you have already surmised, I am one of Bodhi's most recent ... creations.~
+@103 = ~Before she pulled me into the bosom of her loving family, I was a petty robber and part-time thug. Like so many ... humans ... I was unable to fend for myself honestly on the streets of Athkatla.~
+@104 = ~I turned to crime at a young age and spent many years as a mere thug, honing my knife skills in back-alleys. I cared for nothing but brute force and could not even be bothered with the finesse required to stab someone in the back.~
+@105 = ~Tanova found me before the City Watch did and took me to Bodhi. She thought she saw a spark of talent in me.~
+@106 = ~I struggled, of course. When I was granted an audience with my Mistress for the first time, I thought only of escape.~
+@107 = ~She stripped away my foolish illusions of free will faster than the sun burns off the morning mist.~
+@108 = ~With one look in my eyes she claimed me for life ... and beyond. She had plans, you see. The hated Shadow Thieves must be infiltrated. Disrupted. Turned and captured.~
+@109 = ~I was to serve her in that role. But first I had to learn something about the life of the rogue.~
+@110 = ~My Mistress told me to become a thief ... and I jumped to obey. With her gold and reputation backing me I received training in secret from the Night Knives in a nearby city. I forgot my life as a fighter; I put it behind me completely and never looked back.~
+@111 = ~When she saw the thief I had become, my Mistress rejoiced. I was almost the perfect tool. That was the night she gave me the Kiss ... and in her embrace I found the beauty of the world of darkness.~
+@112 = ~Humans, it seems, can compartmentalize their professions, switching from fighter to thief with a single-minded focus. The Undying are much ... broader ... in their pursuits.~
+@113 = ~When I awoke from her tender ministrations I found that my knowledge of fighting had returned to coexist with my knowledge of legerdemain. And I went to serve my Mistress as an enforcer and an invigilator.~
+@114 = ~I have completed many tasks to her ... satisfaction. One of the most recent was telling you of her desired meeting. And I stand before you now, ready to carry out her wishes.~
+  @121 = ~What can you do for me, Valen?~
+@122 = ~My Mistress has commanded me to join your party and travel with you under your command ... provided that you are not also traveling with any bastions of goodness and morality.~
+@123 = ~I will serve you as a fighter and an ... investigator. I am particularly good at removing inconvenient locks, avoiding traps and making myself unseen. I can also hold my own in a fight.~
+@124 = ~My use will ultimately depend on your strategies, <CHARNAME>. I can scout ahead undetected, removing the caltrops from your path and stabbing your would-be enemies in the back.~ 
+@125 = ~Bear in mind that I do have strong ... instincts. I will obey your orders, yes, but left to my own devices I will not hesitate to attack your foes or prepare for such an attack.~ 
+@126 = ~Or I can do nothing at all. You are free to refuse my aid, as long as you comply with the demands of my Mistress.~
+@127 = ~If you do accept my help, remember one thing: unlike your mortal companions, I cannot be brought back if my body is destroyed. Death for the Undying is Final.~
+
+@131 = ~Nothing right now, Valen.~
+@141 = ~Join with me, Valen.~
+@142 = ~Very well, <CHARNAME>. Let the hunt begin!~
+
+@200 = ~You are finished with me for now, <CHARNAME>?~
+@201 = ~My mistake, Valen. Get back in the party.~
+@202 = ~Yes, Valen. Just wait right here.~
+
+@300 = ~I'm sorry, <CHARNAME>, but I cannot travel with a Holy Inquisitor of Torm. I just ... don't think it would work out somehow.~
+@301 = ~I'm sorry, <CHARNAME>, but that priestess of Baervan and I would make poor adventuring companions. I must take my leave of your party while she is in it.~
+@302 = ~I'm sorry, <CHARNAME>, but I cannot in good conscience travel with a priest of Helm. I must leave your group while this ... Anomen ... is in it.~
+@303 = ~I'm sorry, <CHARNAME>, but this holy champion of Arvoreen and I will not get along. Call it a hunch. I must take my leave of you while she is present.~
+
+@310 = ~Mistress! I have served <CHARNAME> as you requested. Take me with you now: clearly <PRO_HESHE> no longer needs my help against the Shadow Thieves.~
+@311 = ~That's quite right. The Shadow Thieves are no more. My dear brother has all the sacrificial vessels he needs. And it worked! I can feel a soul within me.~
+@312 = ~All of that, my dear Valen, means that I no longer need *you*. Your first purpose was to infiltrate the Shadow Thieves and obtain enough warm bodies for my brother's machinations. You did well. Your second purpose was to ensure that <CHARNAME> didn't die while carrying out our little ... quests.~
+@313 = ~Again, you did admirably. Now your utility is at an end. You are being discarded, just as I would discard any tool.~
+@314 = ~I beg of you, Mistress, reconsider! I can still serve you! My life is yours.~
+@315 = ~Poor Valen. I couldn't care less, and I really haven't the time for this. The Hunt sings in my veins, I dream of the excitement of the chase. If you really want to please me ...~
+@316 = ~Oh, yes, Bodhi!~
+@317 = ~... then remain with <CHARNAME> and fight against me. Run the Gauntlet here below the Asylum and make sure <CHARNAME> survives to struggle. Raise your hand against me, Valen, for only in strife do we truly grow.~
+@318 = ~Your lot is cast with the <RACE> now, my childe. When next we meet, I expect to feel your claws at my throat ... or mine on yours.~
+// "Childe" is correct here in English. 
+@319 = ~No, Mistress, please!~
+@320 = ~Silence, Valen! I have given my order and you shall obey. Obey. Obey!~
+@321 = ~Yes, Bodhi. My will is yours. I will serve <CHARNAME> in your hunt.~
+@322 = ~Then let it begin.~
+
+@330 = ~Bodhi, I served <CHARNAME> in the shadows below the Asylum. I have stood by <PRO_HIMHER> through the Underdark. I have done your bidding, Mistress. Take me back!~
+@331 = ~Ah, my poor, foolish Valen. You should have been listening to the music last time, not the words. With my soul restored and my brother's plans complete ... I no longer need you.~
+@332 = ~Fly away, my once-precious neophyte. You are beneath my notice.~
+@333 = ~Mistress! What will I do without you? I shall have no direction.~
+@334 = ~Bah! You waste my time with your pathetic mewling while the blood quickens in my veins. <CHARNAME> is here and I shall feast upon <PRO_HISHER> blood.~
+@335 = ~If you truly must have an order, then I command you: aid <CHARNAME>. Make this, <PRO_HISHER> last battle, that much more interesting for me.~ 
+@336 = ~As ... as you wish, Mistress.~
+@337 = ~Good. Now we begin!~
+
+@400 = ~Valen, once Bodhi's enigmatic servant, has come to be a valued (if not necessarily trusted) member of your team.~
+@401 = ~Valen, I will need all of my concentration in the coming fight.  Don't come with me unless I can count on your total loyalty. This is not the time for you to cast your lot with my enemies again.~
+@402 = ~Valen, this isn't your fight. With Bodhi dead you have the freedom to do whatever you want. You need not follow me against this mad wizard.~
+
+@403 = ~You have my loyalty, <CHARNAME>. My unlife is your command. Before that was merely Bodhi's wish. Now it is my own. You have proven yourself stronger than Bodhi. Stronger than the Undead. Stronger than Irenicus himself, before.~
+@404 = ~How could I not ally myself with such strength? Your power calls to me and I am drawn like a moth to the flame. I place myself at your beck and call, my <PRO_LADYLORD>.~
+
+@405 = ~Freedom? Don't make me laugh. None of us are free, <CHARNAME>.  Without Bodhi I have the freedom to make up my own mind ... what a weighty responsibility.~
+@406 = ~Freedom isn't always pleasant, <RACE>. When my will was subservient to Bodhi's I had no doubt and no quandries. If I don't follow you into the next room, what would I do instead?~
+@407 = ~Wander the world? Start my own brood of vampires? No. I am a creature of action, not a being of reflection. My place is with you. My blood sings in anticipation of the fight.~
+
+// Salvanas and Valen
+@500 = ~Well hel-lo. I espied you shimmying hither, and had to ask myself, "Salvanas, now what manner of beguiling creature would be possessed of such intriguing preternatural grace?"~
+@501 = ~What manner of creature indeed? Perhaps one that would take great delight in stealing away your purse, your breath, and your mortality all in the same motion?~
+@502 = ~My dear, my body yearns to quench itself within your supple fluidity.~
+@503 = ~And I find myself suddenly desirous to quench my appetite in your arteries' fluid, cattle. Quite...overwhelmingly...desirous...~
+@504 = ~Um..um..um..gracious, is that the time? I must flee...er, be fleet lest I miss my embarkation!~
+
+// Talk Directly To Valen
+@600 = ~Yes, <CHARNAME>?~
+
+@601 = ~I'd like you to stop trying to conceal yourself.~
+@602 = ~Try to conceal yourself from our enemies, Valen.~
+@603 = ~I'd like you to stop attacking our enemies before I direct you to do so. I realize this goes against your nature, but our current struggles require more subtlety.~
+@604 = ~The time has come for action: I give you free reign to attack our foes.~
+@605 = ~Can you check your claws and your armor and make sure that everything is in good condition?~
+@606 = ~Nothing, never mind.~
+@607 = ~I'd like you to stop trying to control the minds of our enemies.~
+@608 = ~I am lifting my previous ban: use your mental powers on our foes.~
+@609 = ~I no longer need you to be on the lookout for traps and snares, Valen.~
+@610 = ~Valen, please keep an eye out again for traps.~
+
+
+@697 = ~Oh, yes! <CHARNAME>, you show some wisdom after all.~
+@698 = ~I don't like it, <CHARNAME>, but I will do as you ask .... to a degree. Sometimes the song of blood is too loud to ignore.~
+@699 = ~Very well.~

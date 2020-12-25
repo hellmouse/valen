@@ -1,0 +1,110 @@
+// Illasera 
+@1001 = ~¿Illasera la Rápida, eh? Vas a ser Illasera la Muerta, puta. Nadie con un corte de pelo tan feo como el tuyo puede ser un contrincante para <CHARNAME>. Podrías poner al menos algunas trampas en esta emboscada para nosotros.~
+@1002 = ~Silencio, perra. Tú no eres una hija de Bhaal: no eres de mi importancia. Aquí sólo importan los problemas de <CHARNAME>... y ni siquiera <PRO_HESHE> será capaz de enfrentarse a nosotros y sobrevivir.~
+
+// Sarevok 
+@1010 = ~Créeme, guerrero, la vida esta sobrevalorada. ¿Tienes la infinita libertad de la muerte? ¿Para qué desearías vagabundear por la vida?~
+@1011 = ~No se quien eres, vampira, pero nuestras circunstancias no son las mismas. Tu no muerte te concede libertad de movimiento y un cuerpo material. A mi me faltan esas... comodidades.~
+@1012 = ~Por supuesto, he 'muerto' varias veces.. y aqui estoy. Tú, por otra parte, estas a un paso de tu viaje.~
+@1013 = ~Créeme, guerrero... se lo suficiente como para mantener la Muerte Final alejada de mi.~
+@1014 = ~Si, imagino que si. Sin embargo, mi proposición es para <CHARNAME>. Tú eres especialmente... inapropiada... para concederme lo que deseo.~
+@1015 = ~Si has estado sin cuerpo por algún tiempo, hay determinadas cosas en las que soy particularmente... apropiada... para concedértelas.~
+@1016 = ~Bah, tengo preocupaciones más importantes que perder el tiempo con tonterías.~
+
+@1020 = ~Oh, me gusta la idea, <CHARNAME>. Por lo que he oido de Sarevok, él sería el añadido perfecto para nuestro pequeño equipo. ¡Ambición, poder, fuerza! ¡Qué excitante!~
+@1021 = ~No soy ninguna chuchería para ser adulado por una muerta, muchacha.~
+@1022 = ~Ooh, ahora esta jugando rudo y duro para conseguirlo.~
+@1023 = ~(suspiro) <CHARNAME>, a pesar de que nuestras razones difieren, debo estar de acuerdo con tu vampirita.~
+
+// Mel 
+@1030 = ~(susurrando) ten cuidado, <CHARNAME>. He puesto las suficientes emboscadas para reconocer una a la legua. Esta mujer es tan sutil como un golem de adamantita... lo cual significa que probablemente ella piensa que no tiene nada que temer.~
+@1031 = ~O ella es una loca o es poderosa, o ambas cosas.~
+@1032 = ~¿Qué te trae por aquí, <CHARNAME>?~
+
+// Saradush Jailer 
+@1033 = ~Realmente, nosotros podemos ir y venir a nuestro antojo. Y como no hay nadie aquí abajo para escuchar tus gritos, creo que es hora de demostrar que también podemos hacer lo que queramos.~
+@1034 = ~¿De que estas hablando, mujer? dime, te pareces a uno de esas personas que están cerca de las criptas en la parte sur de la ciudad.~
+@1035 = ~Interesantes conocimientos, saco de sangre. Estas manteniendo una buena fachada, pero puedo oler tu miedo desde aquí. ¡Hora de morir!~
+@1036 = ~¡Mamiii!~
+
+// Saradush Harlot 
+@1040 = ~Créeme, querido, estaremos bebiendo tu sangre en una copa dentro de no mucho.~
+
+// Kiser  
+@1050  = ~Buen intento, ladrón. Reconozco el trabajo de un tramposo en cuanto lo veo. ¿Qué me dices de dejarnos entrar en el trato y untar nuestras manos un poco? Podrías incluso convencernos para que no te matáramos aquí mismo.~
+
+// Errard 
+@1060 = ~Porque tu no podrías parar a la muerte, Ella amablemente te parará a ti. Prepárate para morir, retoño de mago.~
+
+// Squip  
+@1070 = ~Escupe el libro de hechizos, ratero.~
+@1071 = ~¿Qué? ¿De qué estáis hablando?~
+@1072 = ~Buen intento, mierdecilla. La manera en que cubriste las marcas fue demasiado obvia. Las pequeñas y embarradas pisadas estrecharon el cerco. Ahora muéstranos el libro de hechizos o yo te mostraré tus intestinos.~
+
+// Volo 
+@1080 = ~Háblame de Valen.~
+@1081 = ~Ah, la rosa oscura. La fama de Valen (o quizás su infamia) fue largamente eclipsada por su ahora muerta señora. La belleza, gracia y sanguinariedad de Valen son legendarias. Sus crímenes contra los inocentes se ha convertido en cuentos populares que se repiten sin cesar en las tavernas.~
+@1082 = ~Bastante interesante, es que hay muy pocos informes sobre su apariencia. Pareciera que nadie que se halla visto enfrentado a su ira haya vivido para contarlo.~
+@1083 = ~(dulcemente) Y harías bien en evitar incluir una descripción sobre mi en tus pequeñas memorias, bardo, si aprecias en algo tus riñones.~
+
+// Sister Farielle 
+@1090 = ~¡Waukeen! Uno de esos monsturos de las criptas ha osado entrar en este santuario sagrado. ¡Concédeme el poder para conducirlo fuera de aquí y golpearle con suficiente violencia como para sacarlo de este plano!~
+
+
+// Phylidian 
+@1100 = ~Y estaban en lo cierto, pequeña. Ya hay polillas más luminosas dando vueltas alrededor de la llama de <CHARNAME>.~
+@1101 = ~Nunca he tenido la oportunidad de cazar a ninguno de los de míos desde... Bueno, ni siquiera puedo recordarlo. ¡Espero ponerte en un apuro!~
+
+// Gromnir 
+@1110 = ~No se que hará <CHARNAME>, pero estoy francamente interesada en clavar mis dientes en ti. Puedo oler la sangre de corazoncito semiorco desde aquí. ¡Prepárate para el Último Sueño, idiota!~
+
+
+// Sola
+// Illasera 
+@1 = ~Espera, esto no tiene porqué terminar en violencia. ¿No podemos hablar sobre ello?~
+@2 = ~¿Un drow? ¿Qué estas haciendo aquí? Sendai me prometió que esta pelea sería mía. ¿Por qué te ha mandado ella aquí? Nunca debiste dejar el enclave cercano a Amkethran.~
+@3 = ~Le aseguro, señora, que yo no conozco a su 'Sendai'.~
+@4 = ~En ese caso, para mi eres aun menos importante. ¡Hora de morir, <CHARNAME>!~
+
+// Sarevok 
+@10 = ~Esta idea del juramento tiene su mérito, <CHARNAME>. Desde una perspectiva práctica, Sarevok tiene mucho que ofrecernos. Con él limitado por este tipo de juramento puedes hacer uso libre de sus poderes sin preocuparte de su traición. Recomiendo elegir esta opción.~
+@11 = ~Esta idea del juramento tiene su mérito, pero apesta a dominación y esclavitud. ¿Realmente queremos un compañero en él que sólo se puede confiar si esta obligado mágicamente? ¿Por qué no darle a Sarevok la oportunidad de provar que esta de tu lado por propia iniciativa?~
+@12 = ~Interesante. El drow argumentando a mi favor. ¿Qué dices tú, <CHARNAME>?~
+
+// Mel 
+@20 = ~Ese siempre es un consejo legítimo, pero algo me dice que esta mujer esta siguiendo un guión más que hablar con el corazón.~
+@21 = ~<CHARNAME>, deberíamos hacer algo para ayudar a la gente de esta ciudad. Este campamento de infelices refugiados puede ser beneficioso para nuestra misión.~
+
+// Captain Samand 
+@30 = ~<CHARNAME>, Siento que tendríamos que investigar este asunto nosotros mismos. Siento una especial simpatía por aquellos que son acusados injustamente. ¿Puedes imaginar lo desagradable que sería que tu libertad te fuera arrebatada por error?~
+@31 = ~No importa cuanto apriete la valla,
+   ni cuantos castigos haya en el pergamino,
+Yo soy el capitán de mi alma:
+   Yo soy el amo de mi destino.~
+@32 = ~Veamos que podemos aprender de Kiser y Mateo.~
+
+// Kiser 
+@40 = ~A pesar de lo que Kiser sugiere, creo que deberíamos hablar con ese tal Errard y obtener una segunda opinión en la materia. Aquí hay más cosas que las que el ojo puede ver.~
+
+// Errard 
+@50 = ~Discúlpeme, amigo, pero le molestaría explicarme exactamente como funciona esta adivinición mágica?~
+@51 = ~Si, me molestaría. Soy un mago de gran nivel encargado en la defensa de una ciudad, no un maestro o un bibliotecario. Aprenda sus propios hechizos, piel oscura.~
+
+// Saradush Tavern Il-Khan Soldier 
+@60 = ~No creo que esa mujer quiera tus atenciones.~
+@61 = ~¿Y a ti que te importa, drow? ¿Qué derecho tienes para venir aquí a decirle a un soldado decente como puede aprovechar su tiempo libre? Tan sólo estamos flirteando un poco. Esto es muchísimo mejor que lo que hace cualquiera de los de tu raza -- matando bebes, rindiendo culto a arañas,  haciendo incursiones, peleando entre vosotros.~
+@62 = ~Yo ... ~
+@63 = ~Si, ¿Qué?~
+@64 = ~Tienes razón. Lo que estáis haciendo no es tan malo como la mayoría de las cosas que mi gente hace. Pero tampoco significa que lo que estéis haciendo esta bien. ¿Qué tendría que hacer para convencerle de que deje de obligar a esa mujer?~
+
+// Volo 
+@70 = ~Háblame sobre Solaufein.~
+@71 = ~Una mente inquieta y espada afilada, Solaufein ha servido bien a <CHARNAME> desde su encuentro inicial en la Infraoscuridad. Aun a pesar de no ser tan famoso ni tan bien aceptado como Drizzt, el poeta de la Infraoscuridad sigue manteniendo la atención de muchos.~
+@72 = ~Poco se conoce sobre la personalidad de Solaufein más alla de su culto a Eilistraee, secreto que compartió con <CHARNAME>. Aun ahora, parece ser un caminante pragmático de las sendas del mundo.~
+@73 = ~Poco se conoce sobre la personalidad de Solaufein más alla de su culto a Eilistraee, secreto que compartió con <CHARNAME>. Aun ahora, parece ser un caminante arrepentido de las sendas del mundo.~
+@74 = ~Admito que soy una persona reservada, Bardo. Mis pensamientos corren por dentro, como las aguas subterráneas. Aun asi, apreciaría cualquier cosa que pudieras hacer para convencer a los habitantes de la superficie de que no todos los drows son odiosos.~
+
+// Asmay 
+@80 = ~<CHARNAME>, nuestra tarea parece clara: debemos parar el reino de terror de Gromir. Este tipo de ejecuciones 'al azar' me recuerda bastante las disputas políticas que fueron como una plaga para las belicosas casas de Ust Natha.~
+@81 = ~Las Matriarcas harían pelear a las casas menores unas contra otras, sugiriendo a cada una que atacara a la otra para poder ganar su favor. Los más débiles lucharían y morirían; son sólo peones para sus gobernantes.~
+@82 = ~Esa 'Ust Natha' tuya empieza a sonarme un poco como Saradush, drow. Peleamos contra los Gigantes de Fuego, mientras Gromir festeja y acusa a la gente de ser traidores.~

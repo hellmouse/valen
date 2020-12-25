@@ -1,0 +1,180 @@
+// Ribald
+@1001 = ~Wartet ... denkt nicht, ich seh Euch nicht, Dämon ! Ich habe nichts zu tun mit Euch und euresgleichen ! Kriecht zurück zu Eurer Herrin. Ich benötige die Art "Schutz" nicht, die sie den anderen Läden anbietet.~
+@1002 = ~Entspannt Euch ... Riebald. Ich bin hier mit <CHARNAME>. Ich habe wirklich kein Interesse an Euch oder Eurem kleinen "Geschäft". Und meine Herrin ebenfalls nicht. Wir respektieren Stärke.~
+@1003 = ~Da bin ich sicher. Lasst Eure Hände, wo ich sie sehen kann, Blutsauger. Ich will keinen Ärger !.~
+@1004 = ~Ich bin fromm wie ein Lamm. Ihr werdet mich überhaupt nicht bemerken.~
+
+// Kamir the Paladin
+@1010 = ~Steh drüber, Jammerlappen. Es wird nicht der letzte Schwur sein, der an Euch vorüber geht !~
+@1011 = ~Was fällt Euch ein, mich meiner Sorgen zu verhöhnen. Geht mir aus dem Weg !~
+@1012 = ~... wartet ... es liegt eine unheilige dunkle Aura über Euch. Beim Schutze Helms, Ihr und Eure Lakeien werden das Ende dieses Tages nicht erleben !~
+@1013 = ~(zzzsss) Wir werden sehen. Ihr könnt einfach keinem Kind ein gutes Leben schenken. Viel Glück bei Eurer eigenen Rettung.~
+@1014 = ~Helm schütze mich! Gib mir die Kraft, das Böse zu vernichten. Im Namen meines Sohnes !~
+
+// Antenos: bodhi servant
+@1020 = ~Sei still, Antenos. <CHARNAME> und ich arbeiten zusammen und folgen nun den direkten Anweisungen unserer Herrin.~
+@1021 = ~Valen! Vergebt mir meine Torheit ... Ihr habt immer darauf bestanden, Euch in ihrem Schatten zu bewegen. Ich habe Euch unterschätzt.~
+
+// Chore: bodhi servant
+@1022 = ~Beachtet Ihn nicht, <CHARNAME>. Meine Herrin war ein wenig ... übereifrig ... und der arme Chore hat keine Ahnung. Ihr könnt hier nichts lernen.~
+
+// Fetch: bodhi servant
+@1023 = ~Still, Fetch. Diese Person kann uns nichts nützen <CHARNAME>. Erfüllen wir Bodhis Bitte.~
+
+
+// Food: bodhi servant
+
+@1024 = ~Erschreckt nicht, <CHARNAME>. Ich fürchte, Ihr findet unsere normale Nahrung hier ... unvollkommen. Sucht Nahrung für Euch in einem Gasthaus, wenn Ihr müsst.~
+
+
+// Master Cohn: bodhi servant
+
+@1025 = ~Gebt nicht so an, Cohn. Alter und Kraft gehen nicht immer Hand in Hand.~
+@1026 = ~In diesem Falle schon, Valen. Laßt mich nicht schon wieder Euch maßregeln. Ihr habt noch viel zu lernen, wenn ihr mir gleich sein wollt ... und Ihr wisst das. Bittet um Vergebung !~
+@1027 = ~(zzzsss!) Ja, meister Cohn. Verzeiht mir, ich überschritt meine Befugnisse.~
+
+// Meredath: bodhi servant
+@1028 = ~Ah, ein neuer Beweis der Macht der Herrin. Sogar über große Entfernungen ist ihr Wille Gesetz. Seht und lernt, <CHARNAME>. Ich nutze eine schwächere Form der Herrschaft über meine Feinde, aber ich könnte niemals andere Vampire befehligen.~
+@1029 = ~Übrigens, Meredath hieß früher Laune. Als sie die Herrin verärgerte, wurde ihr ein neuer Name gegeben ... und sie erinnert sich nicht an den alten. Oh, ich liebe es, die Macht auszuspielen.~
+
+// Samia
+@1030 = ~Okay, ich habe mir lange genug dieses Gewäsch angehört. <CHARNAME>, bereitet Euch auf einen Kampf vor.~
+@1031 = ~Wartet! Ich will Euch nicht verletzen !~
+@1032 = ~Glaubt Ihren Lügen nicht, <CHARNAME>. Ich kenne diese 'Samia' aus meinen Tagen als Meuchelmörderin. Sie arbeitete immer mit einem Gauner aus Kara-Tur namens Akae zusammen. Diese ganze Sache riecht nach Hinterhalt, Hinterhalt und noch mehr Hinterhalt. Vertraut mir, ich habe lange genug mit solchen Kreaturen zu tun gehabt, um es zu wissen.~
+@1033 = ~Ich kann es nicht glauben, daß Ihr die Falle durchschaut habt. Es wäre besser, ich hätte Euch nie getroffen, Valen. Gibt es keine Ehre mehr unter Dieben ?~
+@1034 = ~Ich denke, die klassische Antwort darauf lautet ... nein ! Bereite Dich auf den endgültigen Tod vor, Samia !~
+
+// Grancor
+@1040 = ~Bei der Herrin, könntet Ihr Euch etwas klarer ausdrücken. Kein wirklich intelligentes  Wesen würde erwarten, daß eine Gruppe Abenteuer auf dieses Geschwätz hereinfällt.~
+@1041 = ~Wir... äh... Was sagt Ihr ?~
+@1042 = ~Daß ihr für meine empfindliche Nase viel zu viel wie Wölfe riecht. Nehmt es von einem erfahrenen Dieb, Jungs : Eure Technik benötigt noch ein bißchen Arbeit. Leider werdet Ihr niemals die Chance haben, sie anzuwenden.~
+@1043 = ~Kommt Jungs : Es ist Zeit, Eure miserablen Fallen auszuprobieren. Lasst mich  nicht warten ...~ 
+
+// Daleson
+@1044 = ~Gut, es scheint, wir haben alle nützlichen Informationen von Euch erfahren, die wir erwarten konnten. (zzzsss !) Es ist Zeit loszulaufen, Daleson. Eure Furcht ist sehr ... erregend ... und ich werde mich bald schon an Eurer Seele gütlich tun !~
+
+// Delcia
+@1045 = ~Ich habe mehr von Euch, als ich ertragen kann, 'Meine Dame'. Ich kannte Huren mit mehr Klasse im kleinen Finger, wie Ihr in Eurem ganzen noblen Körper.~
+@1046 = ~(zzzsss !) Ihr habt mich ohne Ende frustriert mit Eurem banalem Snobismus. Zeit zu sterben !~
+
+// Amnish night guards in Gov't district
+@1050 = ~Moment ... sie sehen aus wie sie! Seht wie blaß dieses Mädchen ist. Alle der Gilde, die der der Schattendiebe gefolgt ist, sehen so aus.~
+@1051 = ~Moment mal! Ich würde nicht dieses arme Mädchen anpöbeln, nur weil sie ein wenig fahl wirkt. Solange Ihr keine Beweise habt, daß sie für dieses Dreckstück im Friedhofsviertel arbeitet, werde ich nicht zulassen, daß Ihr Hand an sie anlegt.~
+@1052 = ~Dreckstück ? (zzzsss !) Wie könnt Ihr es wagen, meine Herrin zu beleidigen, Bauer ? ich zeige Euch die wahre Macht der 'Gilde'. Seid bereit, den endgültigen Tod zu erleiden !~
+@1053 = ~Seht, ich sagte es ja !~
+@1054 = ~Seid ruhig und kämpft !~
+
+// Delon
+@1060 = ~Nun, Liebes, ihr macht es mir sehr einfach, wenn niemand um Dich herum da ist, der für Dich sorgt ... niemandem kümmert es, was mit Dir passiert ...~
+@1061 = ~... Ich denke, es ist Zeit für mich, Dich unter meine Obhut zu stellen. Dein junges frisches Blut verführt mich ...~
+@1062 = ~Ihr seid wirklich unheimlich, werte Dame. Welch große Reißzähne ihr habt !~
+@1063 = ~Sie sind genau richtig, um Dich zu fressen, mein Liebes !~
+
+// Inspector Brega
+@1070 = ~Wartet einen Moment ! Ich erkenne Euch !~
+@1071 = ~(seuselnd) Oh, ja ?~
+@1072 = ~Dieses hellgefärbte Gesicht täuscht mich nicht. Ihr seid Valen, ein kleiner Dieb. Wir versuchten Euch zu ergreifen vor nicht allzulanger Zeit, doch dann hielten wir Euch für tot.~
+@1073 = ~Was soll ich sagen ? Ich lasse mich nicht sehr oft sehen und bin schwer zu fassen.~
+@1074 = ~Ihr seid auch noch so verrückt und kommt hierher und zeigt Euch mir. Ich verhafte Euch wegen Mord und Räuberei. Werdet Ihr freiwillig folgen ?~
+@1075 = ~Nein, ich war schon immer ungezogen. Doch Ihr werdet freiwillig gehen, in den endgültigen Tod !~
+@1076 = ~Wachen ! Zu mir !~
+
+// Rose
+@1080 = ~Hallo, Valen. Ich habe Euch schon seit einer Weile nicht mehr hier gesehen. Ich dachte, Ihr seid nur am Hafen unterwegs.~
+@1081 = ~War ich auch, aber ich fand eine neue Berufung.~
+@1082 = ~Das ist eine Schande. Ich würde mich an der Brücke sicherer fühlen, wenn ich Euch hier in der Gegend wüßte, um diesem Mörder Paroli zu bieten. Wenn jemand ihn erledigen könnte, dann Ihr.~
+@1083 = ~Danke, Rose. Vielleicht werde ich ihn für Euch erledigen, wie in alten Tagen.  Aber ich muß mit <CHARNAME> gehen, ich werde Euch später wiedertreffen.~
+@1084 = ~Auf Wiedersehen, Valen!~
+
+// Valygar
+@1090 = ~Ich bin froh das zu hören, Narr. Jetzt haben wir die Ehre, Euch töten zu dürfen, Euer Blut drinkend, und Eueren Körper mißbrauchend, um die magischen Gegenstände Euerer Ahnen zu stehlen. Welch ruhmreiches Unterfangen !~
+@1091 = ~Ihr ... was für ein Monster seid Ihr ?~
+@1092 = ~(zzzsss !) Ich werde Euer schlimmster Alptraum sein !~
+@1093 = ~Kämpft, wenn Ihr müßt, doch da Ihr keine Ahnung haben werdet von meinem gemordeten Untod, meinem magieverrückten Ahnen, werdet Ihr niemals meine fürchterlichsten Alpträume erreichen.~
+@1094 = ~Ich hoffe, Ihr denkt nicht, das Eure kleine Seifenoper mich beeindruckt. Aber zumindest hattet Ihr mit dem 'Untot'-Teil recht. Bereitet Euch auf den endgültigen Tod vor, Narr !~
+
+// Anath
+@1100 = ~Amaunator ? Speiht ja nicht diesen Namen mir entgegen, Wolf. Wir haben keine Zeit für Eure Lügen.~
+@1101 = ~(schnüffelnd) Ihr riecht nach Grab, Frau. Ihr müßt mit dem Schattenfürsten im Bunde sein. Ich werde Euch töten, um meine Gefährten zu rächen.~
+@1102 = ~(zzzsss !) Bringen wir es zum Punkt! Euer Leben und Eure Lügen enden hier.~
+
+// Roger
+@1110 = ~Valen! Ihr seid ein erfreulicher Anblick.~
+@1111 = ~Roger! Wie ist es Euch ergangen, alter Pirat ?~
+@1112 = ~Gut, außer daß ich gezwungen bin in die Kanalisation zu flüchten, wegen all der Aufregung um einen bestimmten Gildenkrieg, könnte es mir nicht besser gehen. Obwohl, Ihr seht ein wenig blaß aus. Habt Ihr genug Sonne bekommen ?~
+@1113 = ~Sagen wir es so : Ich bekomme die Sonne, die ich benötige dieser Tage.~
+@1114 = ~Hört zu, Valen, gewisse Dinge haben in letzter Zeit für Unruhe gesorgt. Ihr solltet Eure Räuberei für eine Weile ruhen lassen.~
+@1115 = ~Seid unbesorgt, Roger, ich habe eine völlig neue Aufgabe zurzeit. Ich kann schon auf mich aufpassen.~
+@1116 = ~Solang Ihr glücklich seid, Kleines.~
+@1117 = ~Ihr wisst, Ihr seid der Einzigste, der mich so nennen darf, ohne ein Schicksal zu erleiden schlimmer als der Tod.~
+@1118 = ~Weil Ihr mich an ein Mädchen erinnert, daß seine erste Beute bewacht wie ein Kind ... und das ist kein Scherz.~
+@1119 = ~Ja, Ihr habt ein Herz aus Gold, Roger. Ich hoffe nur, das es noch schlägt, wenn ich Euch das nächste mal besuchen komme. Laßt es Euch gut gehen, mein Freund.~
+@1120 = ~Gleichfalls.~
+
+// Aran
+@1130 = ~Ich denke nicht, Aran. Als die Vertreterin der 'Hure' freue ich mich darauf, Euch die Zunge herauszuschneiden und auf einem Tablett zu servieren.~
+@1131 = ~Donnerwetter! Ein kleiner Vogel warnte mich vor Eurem Verrat. Mask, beschütze mich !~
+@1132 = ~Selbst Mask wird Euch nicht mehr helfen! Seid bereit für den endgültigen Tod !~
+
+// Imoen
+@1140 = ~Sie ist jemand, der uns retten wollte ? All dieser Aufwand  für eine Hülle ohne Seele ?~
+@1141 = ~So ... leer. Ihr da! Geht zurück ! Ihr seid wie sie ! Ich kratz Euch die Augen aus ... Eure roten Augen.~
+@1142 = ~Sie ist trügerisch, <CHARNAME>. So viel für Imoen.~
+
+// Lonk
+@1150 = ~Wir haben keine Zeit, mit diesem Bürokraten zu verhandeln ... und sein Herzschlag ist sehr verführerisch. Ziehen wir ihm bei lebendigem Leip die Haut ab, <CHARNAME>, und dann bringen wir Irenicus zur Strecke.~I
+@1151 = ~Ihr bedroht mich, Mädchen ?~
+@1152 = ~(seuselnd) Warum wohl, Lonk. Ich glaube, was ich bin.~
+
+// Dace
+@1160 = ~Ihr seid Dace, nicht wahr ? Ich erinnere mich, einige Geschichten über Euch gehört zu haben. Meister Cohn sagte, daß Ihr fort seid, um wichtige Dinge mit einem mächtigen Verbündeten der Herrin zu erledigen.~
+@1161 = ~Wichtig schon, doch nicht jetzt, Kleines. Bodhi hat mich weggeworfen wie ein unützes Werkzeug, jetzt wo meine Aufgabe erledigt ist.~
+@1162 = ~(zzzsss !) Es schmerzt mich das sagen zu müssen, aber dasselbe ist mir widerfahren. Es zeigt eine Seite der Herrin, die ich zugegeben ... weniger perfekt finde. Ich wünschte, Sie würde mir wieder Ihre Gnade zuteil lassen !~
+@1163 = ~Ihr werdet bald geheilt sein von der Illusion, junges Ding. Bodhi ist ein mächtiger Vampir, aber sie ist nicht Eure Erlösung.~
+@1164 = ~Wie können wir diesem Labyrinth entfliehen, Dace ? Bitte helft uns heraus.~
+@1165 = ~Auf der niedrigen Plattform dort ist eine Statue in einem Raum im Westen. Sie wird Euch passieren lassen, wenn Ihr zwei mächtige Artefakte findet. On the lower level there is a statue in a room to the west. It will let you pass if you have two powerful artifacts. Eines davon ist eine Kristallscherbe. Solltet Ihr passieren, findet Ihr Euch in einem Raum mit mit mehreren Minotauren wieder.~
+@1166 = ~Dieses Terrain ist ideal für Hinterhalte. Wenn Ihr vorsichtig seid, kann es keine Überraschungen geben. Ihr müßt zwei Steinhörner finden und sie in die Minotauren-Statue einsetzen. Danach seid Ihr den Direktoren des Langen Todes ausgesetzt.~
+@1167 = ~Sie werden Euch einer Wahnsinns-Prüfung unterziehen. Wie es weiter geht weiß ich auch nicht, Viel Glück, junges Ding !~
+@1168 = ~Danke, Dace. Doch was ist mit dem anderen Artefakt, das Ihr erwähntet ?~
+@1169 = ~Das andere Ding ist mein guter Wille, symbolisiert durch meine Hand. Ich bin schon zu lange in diesem Verlies gefangen und meine Herrin hat mich aufgegeben. Es ist Zeit für ein Ende.~
+@1170 = ~Sicherlich können wir alle hier herauskommen !~
+@1171 = ~Nein ! Nein sage ich ! Ich habe den Weg versiegelt, Ihr müßt mich mit dem Endgültigem Tod befreien. Komm zu mir, Kind. Stellt Euch Eurem Ahnen !~
+
+// Saemon
+@1180 = ~Ihr schon wieder, Saemon ? Dieser Mann ist ein Schwindler, <CHARNAME>, aber er ist mein Fall. Etwas sagt mir, daß wir ihm vertrauen sollte. Nennen wir es ... Diebesinstinkt.~
+@1181 = ~Habt Dank für Euer ... Vertrauen, meine Dame.~
+@1182 = ~Ich finde, Ihr seid eine hervorragenden Vertrauensperson, Saemon.~
+@1183 = ~Ihr beleidigt mich, meine Dame, Eure Worte schmerzen mein Herz !~
+@1184 = ~Eure Worte sind wie die Segel und nützen nur, wenn der Wind gut steht. Dauert es denn so lang, eines Eurer beiden Gesichter am Morgen zu waschen, Saemon?~ 
+@1185 = ~Ich bin tief verletzt durch Eure feindselige Anklage !~
+@1186 = ~Und Ihr seid immer sehr schnell, Eure Schäfchen ins Trockene zu bringen, wenn die Lage sich ändert, ist es nicht so ?~
+@1187 = ~In der Tat, mich von Eurem lieblichen Anmut abzuwenden, wäre ein größerer Verlust.~
+@1188 = ~Genug. Hinter meiner Schwäche für findige Gauner steht die Faszination ihrer Tödlichkeit, <CHARNAME>. Sehen wir, was er uns diesmal im Austausch für seine Verhöhnungen unserer Gruppe anzubieten hat.~
+@1189 = ~Irenicus floh durch ein Portal, das ins Unterreich führt, doch ich glaube wir können ihm den Weg anschneiden, wenn wir zur Oberfläche zurückkehren und uns ein Schiff nehmen. War unsere erste Reise nicht schnell und sicher ? Ich verspreche  Euch eine ähnliche Fahrt, wenn ihr wieder mit mir reisen wollt.~
+
+// Demon
+@1190 = ~Halt, Dämon! Ich habe die Eier des silbernen Drachen hier ! Ich biete sie Euch an, fur eine Verbesserung meiner Fähigkeiten und zwei magische Gegenstände.~
+@1191 = ~** TUT IHR DAS, VAMPIR?  WIE INTERESSANT.  DAS BHAAL-KIND IST MUTIG SOLCH EINEN EIGENSINNIGEN DIENER DABEI ZU HABEN. **~
+
+// Simyaz
+@1200 = ~(zzzsss!) Nein, eigentlich zertörten wir die ganze Enklave *ohne Euch* !~
+@1201 = ~Eure Githyanki-Tricks funktionieren nicht bei mir, alter Mann. Ich bin immun.  Und ich freue mich, es Euch heimzahlen zu können, daß Ihr uns mit diesen Monstern allein gelassen habt.~
+@1202 = ~Uns zurückzahlen ?~
+@1203 = ~Ja ... mit Blut ! Macht Euch fertig, Feiglinge, für den Endgültigen Tod !~
+
+// Drizzt
+@1210 = ~Nicht so schnell, Finsterling. Sagen über Eure Kraft ... und mächtige Ausrüstung sind weit und breit bekannt. Und ich bin blutrünstig genug, Euch einer Prüfung zu unterziehen.~
+@1211 = ~Was sagst Du da, Frau ?~
+@1212 = ~Ich sage, das ich mich schon bald an Eurer Seele laben werde, Drow.~
+@1213 = ~Ihr werdet in mir kein einfaches Opfer finden !~
+@1214 = ~(seuselnd) Oh, daß hoffe ich doch sehr.~
+@1215 = ~Seid bereit, Teufel!~
+
+// Elhan
+@1220 = ~Vertraut mir, oh scharfsinniges Wesen, ich merke mir jedes Urteil, welches in Bodhis Namen ergangen ist ... und wir gaben dieses besondere Geheimnis nicht an Euch weg.~
+
+// Demin
+@1230 = ~Neuigkeiten! Elfen machen eine neue, weitere Entdeckung, anhaltende Beratungen während mit Dramatik und arroganten Benehmen.~
+
+// Hell Sarevok
+@1240 = ~Ich bemerke Verwesung hier, doch sie sagt mir nichts. Verpasst diese Chance nicht, <CHARNAME>. Zerschmettert ihn ! Laßt Eurem Zorn freien Lauf !~

@@ -1,0 +1,54 @@
+@1 = ~Abwehr der Sonne~
+@2 = ~Valens Rüstung~
+@3 = ~Valens Rüstung
+Valens Schattenrüstung ist ein Geschenk ihrer Herrin, sie soll ihr das Leben außerhalb der Vampirgemeinschaft erleichtern. Sie ist leicht und fließend, mehr wie ein Pelzumhang als eine richtige Lederrüstung. Es wurden mächtige, unheilige Verzauberungen hineingewebt, um das Sonnenlicht daran zu hindern, Valens vampirisches Fleisch in Staub aufzulösen. Trotzdem ist sie unter dem Einfluss der Sonne stark geschwächt.
+
+Als junge Vampirin hat Valen die normalen Widerstandsfähigkeiten eines Untoten, so ist sie gegen Festhalten, Verzauberungen, Todesmagie und Gift immun. Sie ist Kälte und Elektrischem Schaden gegenüber resistent. Sie regeneriert alle 2 Sekunden einen Trefferpunkt.~ 
+@4 = ~Valens Rüstung
+Valens Schattenrüstung ist ein Geschenk ihrer Herrin, sie soll ihr das Leben außerhalb der Vampirgemeinschaft erleichtern. Sie ist leicht und fließend, mehr wie ein Pelzumhang als eine richtige Lederrüstung. Es wurden mächtige, unheilige Verzauberungen hineingewebt, um das Sonnenlicht daran zu hindern, Valens vampirisches Fleisch in Staub aufzulösen. Trotzdem ist sie unter dem Einfluss der Sonne stark geschwächt.
+
+Als vollentwickelte Vampirin hat Valen die normalen Widerstandsfähigkeiten eines Untoten, so ist sie gegen Festhalten, Verzauberungen, Todesmagie und Gift immun. Sie kann nur von Waffen +2 oder höher verletzt werden. Sie ist Kälte und Elektrischem Schaden gegenüber resistent. Sie regeneriert alle 2 Sekunden einen Trefferpunkt.~
+@5 = ~Valens Rüstung
+Valens Schattenrüstung ist ein Geschenk ihrer Herrin, sie soll ihr das Leben außerhalb der Vampirgemeinschaft erleichtern. Sie ist leicht und fließend, mehr wie ein Pelzumhang als eine richtige Lederrüstung. Es wurden mächtige, unheilige Verzauberungen hineingewebt, um das Sonnenlicht daran zu hindern, Valens vampirisches Fleisch in Staub aufzulösen. Trotzdem ist sie unter dem Einfluss der Sonne stark geschwächt.
+
+Als ältere Vampirin hat Valen die normalen Widerstandsfähigkeiten eines Untoten, so ist sie gegen Festhalten, Verzauberungen, Todesmagie und Gift immun. Sie kann nur von Waffen +2 oder höher verletzt werden. Sie ist Kälte und Elektrischem Schaden gegenüber resistent. Sie regeneriert jede Sekunde einen Trefferpunkt.~ 
+@6 = ~Valens Rüstung
+Valens Schattenrüstung ist ein Geschenk ihrer Herrin, sie soll ihr das Leben außerhalb der Vampirgemeinschaft erleichtern. Sie ist leicht und fließend, mehr wie ein Pelzumhang als eine richtige Lederrüstung. Es wurden mächtige, unheilige Verzauberungen hineingewebt, um das Sonnenlicht daran zu hindern, Valens vampirisches Fleisch in Staub aufzulösen. Trotzdem ist sie unter dem Einfluss der Sonne stark geschwächt.
+
+Als Vampirmatriarchin hat Valen die normalen Widerstandsfähigkeiten eines Untoten, so ist sie gegen Festhalten, Verzauberungen, Todesmagie und Gift immun. Sie kann nur von Waffen +3 oder höher verletzt werden. Sie ist Kälte und Elektrischem Schaden gegenüber resistent. Sie regeneriert jede Sekunde zwei Trefferpunkte.~ 
+@7 = ~Valens Klauen~
+@12 = ~Valens Klauen
+Wie die aller Vampire sind Valens Klauen eine Leitung zur Negativen Ebene. Ihre eiskalte Berührung zählt als +2 Waffe, verursacht 1W6+2 Schadenspunkte und entzieht dem Opfer 1 Stufen.~
+@8 = ~Valens Klauen
+Wie die aller Vampire sind Valens Klauen eine Leitung zur Negativen Ebene. Ihre eiskalte Berührung zählt als +2 Waffe, verursacht 1W6+2 Schadenspunkte und entzieht dem Opfer 2 Stufen.~
+@9 = ~Valens Klauen
+Wie die aller Vampire sind Valens Klauen eine Leitung zur Negativen Ebene. Ihre eiskalte Berührung zählt als +3 Waffe, verursacht 1W6+3 Schadenspunkte und entzieht dem Opfer 3 Stufen.~
+@10 = ~Valens Klauen
+Wie die aller Vampire sind Valens Klauen eine Leitung zur Negativen Ebene. Ihre eiskalte Berührung zählt als +4 Waffe, verursacht 1W6+4 Schadenspunkte und entzieht dem Opfer 4 Stufen.~
+@11 = ~Valens Klauen
+Wie die aller Vampire sind Valens Klauen eine Leitung zur Negativen Ebene. Ihre eiskalte Berührung zählt als +5 Waffe, verursacht 1W6+5 Schadenspunkte und entzieht dem Opfer 5 Stufen.~
+@15 = ~Als VALEN nach ihrer Vergangenheit gefragt wird, schenkt sie euch ein seltsam verschmitztes Lächeln. Sie berichtet sorgfältig davon, daß sie eine Raubmörderin war, bevor sie ihre Herrin Bodhi getroffen hat. Unter Bodhis Herrschaft lernte sie das Handwerk eines Diebes, als sie zur Vampirin gemacht wurde verschmolzen ihre Fähigkeiten des Kämpfens und Stehlens. Bodhi hat Valen damit beauftragt euch zu folgen, und das machte sie bisher... aber da ist etwas an ihr, das ihre Gemeinschaft und wechselnde Loyalität mit euch in Frage stellt.~
+
+@16 = ~Cynara~
+
+
+// The Hunters
+@20 = ~Buffy~
+@21 = ~Faith~
+@22 = ~Kendra~
+@23 = ~Van Helsing~
+@24 = ~Der Feind ist vernichtet! Frohlocket!~
+@25 = ~Lathander, hilf mir zum Sieg über dieses Monstrum!~
+@26 = ~Lathander, zeigt mir meine Feinde!~
+@27 = ~Lathander, reinigt die Erde von diesem Bösen! Lasst es sich nicht erholen!~
+@28 = ~Oh Morgenfürst! Schützt euren demütigen Diener!~
+
+@4001 = ~
+
+** ACHTUNG **
+
+Das Addon "Thron des Bhaal" ist anscheinend nicht installiert. Valen benötigt ToB. Die Installation wird  vermutlich fehlschlagen. Bitte ToB installieren! 
+
+** ACHTUNG ** 
+
+~ 

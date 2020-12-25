@@ -1,0 +1,59 @@
+// Illasera
+@1001 = ~Illasera la vive, hein? Tu seras bientôt Illasera la morte, putain.  Quelqu'un avec une coupe de cheuveux comme la tienne ne peut pas être un grand obstacle pour <CHARNAME>. Tu aurais pu au moins poser quelques pièges, pour nous tendre cette embuscade.~
+@1002 = ~Silence, chienne. Tu n'es pas une enfant de Bhaal: tu ne m'interresse pas. Seul <CHARNAME> m'interresse... et même <PRO_HIMHER> sera incapable de m'affronter et d'y survivre.~
+
+// Sarevok
+@1010 = ~Crois moi, guerrier, la vie est surfaite. Qu'as tu d'autre que l'infinie liberté de ta mort? Pourquoi souhaiter les caprices de la vie?~
+@1011 = ~Je ne te connais pas, vampire, mais notre situation n'est pas semblable. Ta non-vie t'apporte la liberté de mouvement et un corps materiel. C'est cela qui ... me manque.~
+@1012 = ~Bien sur, je suis 'mort' de nombreuses fois ... et cependant je suis toujours là.  Toi, par contre, tu es presque arrivé au bout du voyage.~
+@1013 = ~Crois moi, guerrier ... Je connais assez la vraie mort pour l'empecher de me réclamer.~
+@1014 = ~Oui, j'imagine. Cependant, ma proposition est pour <CHARNAME>. Tu es particulièrement ... incapable ... de me donner ce que je souhaite.~
+@1015 = ~Si tu n'as pas eu de corps depuis si longtemps, il doit bien il y avoir des choses que je suis particulièrement ... capable ... de te donner.~
+@1016 = ~Bah, j'ai autre chose à penser que de discuter avec des laquais.~
+
+@1020 = ~Oh, J'aime cette idée, <CHARNAME>. De ce que j'ai entendu à propos de Sarevok, je me dis qu'il serait parfait pour se joindre à notre petite équipe. Ambition, pouvoir, force! C'est très excitant.~
+@1021 = ~Je ne suis pas une babiole à faire ramper devant la mort, fille.~
+@1022 = ~Ooh, maintenant il est bourru et difficile.~
+@1023 = ~(soupir) <CHARNAME>, malgrès le fait que nos raisons diffèrent, je dois dire que je suis d'accord avec ton vampire de compagnie.~
+
+// Mel
+@1030 = ~(avec une voix aussi faible qu'un soupir) Fais attention, <CHARNAME>. J'ai tendu assez de pièges pour en reconnaitre un à des lieues à la ronde. Cette femme est aussi subtile qu'un golem d'adamantine ... ce qui signifie qu'elle pense suremment qu'elle n'a rien à craindre.~
+@1031 = ~Elle est donc mauvaise, puissante, ou les deux.~
+@1032 = ~Qu'est ce qui vous amène ici, <CHARNAME>?~
+
+// Saradush Jailer
+@1033 = ~En fait, nous pouvons déja aller et venir comme bon nous semble. Et comme il n'y a personne pour entendre tes cris, je pense qu'il est temps de te montrer que nous pouvons aussi faire ce que bon nous semble.~
+@1034 = ~De quoi parles tu, femme? Dites, vous ressemblez à ces gens qui se tiennent près des cryptes au sud de la ville.~
+@1035 = ~C'est bon à savoir, sac de sang. Tu garde une expression normale, mais je peux sentir ta peur d'ici. C'est l'heure de mourrir!~
+@1036 = ~Maman!~
+
+// Saradush Harlot
+@1040 = ~Crois moi, ma chérie, nous boirons son sang dans un gobelet avant longtemps.~
+
+// Kiser
+@1050  = ~Possible, voleur. Je sais reconnaître une arnaque quand j'en vois une. Que diriez vous de nous laisser faire et même de nous graisser la patte? Vous devriez même nous convaincre de ne pas vous tuer sur place.~
+
+// Errard
+@1060 = ~Parce que tu ne peux arrèter ta mort, c'est elle qui t'arrètera. Prepare-toi à mourir, petit mage.~
+
+// Squip
+@1070 = ~Lache le livre de sorts, pickpocket.~
+@1071 = ~Quoi? De quoi parlez vous?~
+@1072 = ~Allez, gamin. La maniére dont tu te cache dans la foule à la recherche d'une cible est trop évidente. Les petites, et boueuses traces de pas ont conclu l'affaire. Maintenant montre nous le livre de sorts ou je te montre tes intestincs.~
+
+// Volo 
+@1080 = ~Parle moi de Valen.~
+@1081 = ~Ah, la rose de l'ombre. La renommée de Valen (ou plutôt sa mauvaise réputation) à depuis longtemps éclipsé celle de sa défunte maîtresse. La beauté de Valen, sa grace et sa soif de sang sont légendaires. Ses massacres d'innocents deviennent des histoires souvent racontées dans les tavernes de Féerune.~
+@1082 = ~Ce qui est assez interessant, c'est qu'il y a très peu de descriptions de son apparence. Il semblerait que personne n'ayant affronté sa colère n'ait survécu pour en faire le récit.~
+@1083 = ~(doucement) Et tu ferais mieux d'éviter d'inclure une description de moi dans tes mémoires, barde, si tu tiens à tes reins.~
+
+// Sister Farielle
+@1090 = ~Par Waukyne! Un des monstres des cryptes a pénétré dans ce sanctuaire sacré. Accordez moi la force de le combattre et de le bannir de ce plan!~
+
+
+// Phylidian
+@1100 = ~Et ils avaient raison, petite chose. Il y a déja de plus brillants papillons de nuit qui entourent la flamme de <CHARNAME>.~
+@1101 = ~Je n'ai pas eu la chance d'en chasser un de ma propre in... euh, je ne m'en souviens même pas. J'espere que tu luttera dignement!~
+
+// Gromnir
+@1110 = ~Je ne sais pas ce qu'en pense <CHARNAME>, mais je n'attends que de planter mes dents en toi. Je peux sentir ton sang de demi-orque d'ici. Prepare-toi au repos éternel, idiot!~

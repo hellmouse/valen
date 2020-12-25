@@ -1,0 +1,60 @@
+// Illasera
+@1001 = ~Illasera Szybka? Nied³ugo bêdziesz Illasera Martwa. Nikt z wygl¹dem tak ohydnym, jak twój, móg³by byæ przeciwnikiem godnym <CHARNAME>. Mog³aœ przynajmniej zastawiæ jakieœ pu³apki w tej swojej zasadzce.~
+@1002 = ~Zamilcz psie. Nie jesteœ Dzieciê Bhaala, wiêc nie stanowisz dla mnie ¿adnego zainteresowania. Tylko <CHARNAME> siê tutaj liczy... i nawet on<PRO_HESHE> nie bêdzie w stanie z nami zwyciê¿yæ.~
+
+// Sarevok
+@1010 = ~Zaufaj mi wojowniku, ¿ycie jest przereklamowane. Masz nieograniczon¹ wolnoœæ umierania? Dlaczego pragniesz "uroków" ¿ycia?~
+@1011 = ~Nie wiem kim jesteœ wampirze, ale nasze sytuacje s¹ zupe³nie ró¿ne. Twoje Nie¿ycie daje ci swobodê ruchów i materialne cia³o. Ja nie mam nawet tego.~
+@1012 = ~Oczywiœcie, ¿e 'zgin¹³em' wiele razy... jednak nadal tu pozostajê. Z kolei ty jesteœ niemal u kresu swej wêdrówki.~
+@1013 = ~Uwierz mi wojowniku. Wiem wystarczaj¹co wiele, aby nie dopuœciæ do Ostatecznej Œmierci.~
+@1014 = ~Nie w¹tpiê, ¿e to umiesz. Jednak moja propozycja jest skierowana do <CHARNAME>. Ty sama nie jesteœ w stanie zapewniæ mi tego czego pragnê.~
+@1015 = ~Jeœli by³eœ bez cia³a przez tak d³ugi czas, to mo¿e jednak jestem w stanie sama coœ ci zaoferowaæ.~
+@1016 = ~Ach, mam wa¿niejsze sprawy na g³owie ni¿ troszczenie siê o osoby twego pokroju.~
+
+@1020 = ~Podoba mi siê ten pomys³ <CHARNAME>. Z tego co s³ysza³am o Sarevoku wydaje siê on doskona³ym dodatkiem do naszej ma³ej dru¿yny. Ambicja, potêga, si³a! Jakie¿ to jest ekscytuj¹ce.~
+@1021 = ~Nie jestem jak¹œ b³yskotk¹, któr¹ mo¿esz siê bezkarnie bawiæ.~
+@1022 = ~Och, teraz zgrywa ciê¿kiego do zdobycia.~
+@1023 = ~<CHARNAME>, chocia¿ nasze pogl¹dy trochê siê ró¿ni¹, musze siê zgodziæ z twoim wampirkiem.~
+
+// Mel
+@1030 = ~(szepcze) B¹dŸ ostro¿ny, <CHARNAME>. Zastawia³am wiele zasadzek, aby móc je rozpoznaæ. Zaœ ta kobieta jest tak subtelna, jak adamentowy golem... co oznacza, ¿e wydaje siê jej ¿e nie musi siê niczego obawiaæ.~
+@1031 = ~Ona jest szalona, albo potê¿na. Mo¿e nawet jednoczeœnie posiada obie te cechy.~
+@1032 = ~Co ciê tu sprowadza, <CHARNAME>?~
+
+// Saradush Jailer
+@1033 = ~Szczerze mówi¹c, to mo¿emy tu wchodziæ i wychodziæ kiedy tylko chcemy. A skoro nie ma tu nikogo, kto us³ysza³by twój krzyk, myœlê, ¿e mo¿emy ci zademonstrowaæ, ¿e robimy te¿ to co chcemy.~
+@1034 = ~O czym ty mówisz kobieto? Zaraz! Przypominasz mi ludzi, którzy czêsto siê krêc¹ ko³o krypt w po³udniowej czêœci miasta.~
+@1035 = ~Ca³kiem wiele wiesz, worku krwi. Trzymasz siê te¿ ca³kiem nieŸle, jednak nie ukryjesz przede mn¹ swojego strachu. Czas umieraæ!~
+@1036 = ~Mamusssiu!~
+
+// Saradush Harlot
+@1040 = ~Zaufaj mi kochanieñka, bêdziemy piæ jego krew zanim siê obejrzysz.~
+
+// Kiser
+@1050 = ~Czy aby na pewno z³odzieju. Potrafiê rozpoznaæ zdradzieck¹ robotê, kiedy j¹ widzê. Co powiesz na to abyœmy przy³¹czyli siê do ciebie i uœcisnêli sobie nawzajem rêce? Mo¿e nawet uda ci siê nas przekonaæ abyœmy ciê nie zabili.~
+
+// Errard
+@1060 = ~Poniewa¿ nie chcia³eœ zatrzymaæ siê dla œmierci, Ona ³askawie poczeka³a na ciebie. Przygotuj siê na œmieræ, maguniu.~
+
+// Squip
+@1070 = ~Oddawaj ksiêgê, z³odziejaszku.~
+@1071 = ~Co? O czym ty mówisz?~
+@1072 = ~Sposób w jaki kierowa³eœ t³umem szukaj¹cym œladów, by³ zbyt oczywisty. Zaœ œlady z b³ota przypieczêtowa³y sprawê. Teraz poka¿ nam ksiêgê, albo ja poka¿ê ci twoje wnêtrznoœci.~
+
+// Volo 
+@1080 = ~Opowiedz mi o Valen.~
+@1081 = ~Ach mroczna ró¿a. S³awa (albo raczej nies³awa) Valen ju¿ dawno przyæmi³a jej zmar³¹ pani¹. Jej zwinnoœæ, uroda i ¿¹dza krwi sta³y siê ju¿ legend¹. Jej masakry dokonane na niewinnych czêsto s¹ opowiadane wœród bywalców tawern.~
+@1082 = ~Co zadziwiaj¹ce jest niewiele dok³adnych opisów jej pojawienia siê. Wydaje siê, ¿e nikt kto j¹ spotka³ nie prze¿y³ aby o tym opowiedzieæ.~
+@1083 = ~(s³odko) A ty zrobisz dobrze jeœli nie bêdziesz uwzglêdnia³ moich opisów w swoich opowieœciach bardzie, o ile cenisz swoje wnêtrznoœci.~
+
+// Sister Farielle
+@1090 = ~Waukeen! Jedna z bestii z krypty wdar³a siê do tego œwiêtego sanktuarium. Obdarz mnie moc¹ abym mog³a j¹ wygnaæ z tego planu!~
+
+
+// Phylidian
+@1100 = ~I mieli racjê. S¹ jedynie æmami kr¹¿¹cymi wokó³ p³omienia, jakim jest <CHARNAME>.~
+@1101 = ~nie mia³em okazji, aby dopaœæ moj¹ w³asn¹ w... có¿, nawet tego nie pamiêtam. Mam nadziejê, ¿e bêdzie to interesuj¹ca walka!~
+
+// Gromnir
+@1110 = ~Nie wiem co o tym myœli <CHARNAME>, ale zapewniam ciê, ¿e nie mogê siê doczekaæ a¿ zanurzê w tobie moje zêby. Mogê a¿ tutaj wyczuæ twoj¹ pó³-orcz¹ krew. Przygotuj siê na Wieczny Sen, g³upcze!~
+

@@ -1,0 +1,171 @@
+// Ribald
+@1001 = ~Zaczekaj... czy wydaje ci siê, ¿e ciê nie widzê demonie! Nie mam z twoim rodzajem, ani z tob¹ ¿adnych interesów! Odpe³znij do swej pani. Nie potrzebujê "ochrony" jak¹ oferuje ona innym sprzedawc¹.~
+@1002 = ~Uspokój siê. Jestem tu z <CHARNAME>. Podobnie jak moja Pani, nie mam ¿adnych planów co do ciebie i twojego ma³ego targu. Szanujemy ka¿d¹ si³ê.~
+@1003 = ~Zapewne. Trzymaj jednak swoje rêce tak abym móg³ je widzieæ. Nie ¿yczê tu sobie jakichkolwiek k³opotów.~
+@1004 = ~bêdê cicha jak mysz pod miot³¹. Nie us³yszysz nawet moich pisków.~
+
+// Kamir the Paladin
+@1010 = ~Przestañ siê nad sob¹ u¿alaæ, To nie jest ostatnia przysiêga jak¹ z³amiesz.~
+@1011 = ~Jak œmiesz naœmiewaæ siê z mojego ¿alu! ZejdŸ mi z oczu!~
+@1012 = ~... poczekaj... wyczuwam aurê z³a wokó³ ciebie. Z b³ogos³awieñstwem Helma, jeszcze dziœ ujrzê martw¹ ciebie i twych towarzyszy!~
+@1013 = ~Jeszcze zobaczymy. Nie potrafi³eœ nawet uratowaæ dziecka. Myœlisz, ¿e sam prze¿yjesz!~
+@1014 = ~Helmie ochraniaj mnie! Daj mi moc, aby móg³ zg³adziæ to z³o w imieniu mojego syna!~
+
+// Antenos: bodhi servant
+@1020 = ~B¹dŸ cicho Antenos. <CHARNAME> i ja pracujemy teraz razem i wykonujemy bezpoœrednie rozkazy Pani.~
+@1021 = ~Valen! Wybacz, ¿e ciê nie zauwa¿y³em... zawsze starasz siê trzymaæ w cieniu bliskich tobie osób. Zbyt siê tym poch³on¹³em.~
+// Chore: bodhi servant
+@1022 = ~Zignoruj j¹ <CHARNAME>. Moja Pani by³a zbyt... nadgorliwa... i biedna Harówka nie ma w³asnego umys³u. Niczego siê tu nie dowiesz.~
+// Fetch: bodhi servant
+@1023 = ~Zamknij siê Przynieœ. nie przyda siê ona nam do niczego <CHARNAME>. Zrób to czego ¿¹da Bodhi.~
+// Food: bodhi servant
+@1024 = ~Nie przejmuj siê tym <CHARNAME>. Obawiam siê, ¿e nasze tutejsze po¿ywienie nie zaspokoi³oby ciê. Jeœli potrzebujesz coœ zjeœæ udaj siê najlepiej do ober¿y.~
+// Master Cohn: bodhi servant
+@1025 = ~Nie przemêczaj siê Cohn. Wiek i si³a nie zawsze id¹ w parze.~
+@1026 = ~W tym wypadku id¹. Nie zmuszaj mnie abym znów musia³ ciê pouczyæ. Jeszcze wiele siê musisz nauczyæ jeœli chcesz ze mn¹ konkurowaæ i dobrze o tym wiesz. B³agaj mnie o przebaczenie.~
+@1027 = ~Tak Mistrzu Cohn. Wybacz mi, za bardzo przesadzi³am.~
+// Meredath: bodhi servant
+@1028 = ~A oto i kolejny pokaz potêgi naszej Pani. Nawet na odleg³oœæ jej wola jest prawem. Patrz i ucz siê <CHARNAME>. U¿ywam s³abszej formy tej dominacji na moich wrogach, ale nigdy nie mog³abym kontrolowaæ innego wampira.~
+@1029 = ~Tak przy okazji, Meredath nazywa³a siê kiedyœ Laune. Kiedy zawiod³a Pani¹, jej imiê zosta³o zmienione... a ona nawet tego nie pamiêta. Jak ja uwielbiam nadu¿ywanie si³y.~ 
+
+// Samia
+@1030 = ~Wystarczy, ju¿ wystarczaj¹co d³ugo s³ucha³am tego gadania. <CHARNAME> przygotuj siê do walki.~
+@1031 = ~Poczekaj! Nie mam zamiaru ciê skrzywdziæ!~
+@1032 = ~Nie wierz w jej k³amstwa <CHARNAME>. Pamiêtam tê 'Samiê' z moich dawnych dni. Kiedyœ wspó³pracowa³a z rozbójnikami z Kara-Tur pod imieniem Akae. To wszystko cuchnie jak¹œ pu³apk¹. Zaufaj mi, zastawia³am ich wiele w swoim ¿yciu aby móc je rozpoznaæ.~
+@1033 = ~Nie mogê uwierzyæ, ¿e zmarnowa³aœ moj¹ zasadzkê. Oczywiœcie bym ciê oszczêdzi³a Valen. Czy¿ nie ma ju¿ uczciwoœci wœród z³odziej?~
+@1034 = ~Myœlê, ¿e typow¹ odpowiedzi¹ jest... Nie! Przygotuj siê na Ostateczn¹ Œmieræ Samio!~
+
+// Grancor
+@1040 = ~Czy moglibyœcie byæ bardziej przewidywalni? ¯adne inteligentne stworzenie nie wpad³oby na to, ¿e banda poszukiwaczy przygód da³aby siê nabraæ na tak¹ têp¹ gadaninê.~
+@1041 = ~My... co ty mówisz?~
+@1042 = ~Mówiê, ¿e cuchniecie zupe³nie jak wilki. Przyjmijcie radê od doœwiadczonego rabusia: wasze metody potrzebuj¹ byæ lepiej opracowane. Niestety nigdy nie bêdziecie mieli ju¿ okazji tego dokonaæ.~
+@1043 = ~Ruszajcie ch³opaki: czas zakoñczyæ tê wasz¹ ¿a³osn¹ maskaradê. Nie pozwólcie mi czekaæ...~ 
+
+// Daleson
+@1044 = ~Wygl¹da na to, ¿e wydobyliœmy ju¿ z ciebie wszystkie niezbêdne informacje. (sykniêcie) Czas uciekaæ, Daleson. Twój strach jest bardzo... podniecaj¹cy... chyba wkrótce po¿ywiê siê twoj¹ dusz¹!~
+// Delcia
+@1045 = ~Mam ciê ju¿ wystarczaj¹co doœæ 'pani'. Znam kurtyzany z wiêksz¹ iloœci¹ godnoœci ni¿ ty posiadasz w ca³ym swoim szlacheckim ciele.~
+@1046 = ~(sykniêcie) Zbyt mnie rozwœcieczy³aœ swoja krn¹brnoœci¹. Czas umieraæ!~
+
+// Amnish night guards in Gov't district
+@1050 = ~Prawdê mówi¹c... ona wygl¹da zupe³nie jak oni! Spójrz tylko jak blada jest ta dziewczyna. Ka¿dy z tej gildii, walcz¹cej ze Z³odziejami Cienia, tak wygl¹da.~
+@1051 = ~Poczekaj chwilê! Nie pozwolê ci oskar¿aæ tej biednej dziewczyny dlatego ¿e jest trochê blada. Dopóki nie udowodnisz mi, ¿e pracuje ona dla tej wiedŸmy z cmentarzyska nie po³o¿ê na niej rêki.~
+@1052 = ~WiedŸma? (sykniêcie) Jak œmiesz obra¿aæ moj¹ Pani¹ prostaku! Poka¿e ci prawdziw¹ potêgê naszej gildii. Przygotuj siê na Ostateczn¹ Œmieræ!~
+@1053 = ~A nie mówi³em!~
+@1054 = ~Zamknij siê i walcz!~
+
+// Delon
+@1060 = ~A teraz kochanie, skoro by³aœ tak mi³a, aby upewniæ siê, ¿e nie ma w okolicy nikogo kto móg³by ci pomóc... nikogo kogo obchodzi³by twój los...~
+@1061 = ~... myœlê, ¿e nadesz³a odpowiednia pora abym wziê³a ciê pod swoje skrzyd³a. Twoja m³oda dziewicza krew wzywa mnie...~
+@1062 = ~Jesteœ naprawdê przera¿aj¹ca pani i jakie du¿e masz zêby!~
+@1063 = ~¯eby ciê lepiej zjeœæ!~
+
+// Inspector Brega
+@1070 = ~Zaczekaj chwilkê, chyba ciê poznajê!~
+@1071 = ~ Naprawdê?~
+@1072 = ~Ta bia³a farba na twarzy mnie nie zwiedzie. Jesteœ Valen, ta drobna z³odziejka. Próbowaliœmy ciê pochwyciæ ju¿ od jakiegoœ czasu, ale wygl¹da³o na to, ¿e po prostu znik³aœ.~
+@1073 = ~Có¿ mogê powiedzieæ? Jestem po prostu nieuchwytna.~
+@1074 = ~Jesteœ tak¿e g³upia skoro przysz³aœ prosto w moje rêce. Aresztujê ciê za napady i rabunki. Czy pójdziesz po dobroci?~
+@1075 = ~Nie, nigdy nie by³am potulna, ale ty odejdziesz spokojnie na spotkanie z Ostateczn¹ Œmierci¹!~
+@1076 = ~Stra¿e! Do mnie!~
+
+// Rose
+@1080 = ~Witaj Valen. Dawno ciê ju¿ tutaj nie widzia³am. Myœla³am, ¿e pracujesz tylko w Dokach.~
+@1081 = ~Tak by³o, dopóki nie odkry³am nowego powo³ania.~
+@1082 = ~Szkoda. Czu³abym siê tutaj pewniej wiedz¹c, ¿e jesteœ tutaj aby powstrzymaæ tego mordercê. Jeœli ktokolwiek móg³by siê go pozbyæ, to by³abyœ to z pewnoœci¹ ty.~
+@1083 = ~Dziêki. Mo¿e zajê³abym siê nim, tak jak za dawnych czasów, ale teraz jestem pod dowództwem <CHARNAME>, wiêc pogadamy kiedy indziej.~
+@1084 = ~Do zobaczenia!~
+
+// Valygar
+@1090 = ~Mi³o mi to s³yszeæ g³upcze. Teraz z przyjemnoœci¹ wyssiemy twoj¹ krew i u¿yjemy twojego cia³a aby zdobyæ magiczne artefakty twoich przodków. Có¿ za wspania³a sytuacja!~
+@1091 = ~Ty... jakim¿ potworem ty jesteœ?~
+@1092 = ~(sykniêcie) Zaraz stanê siê twoim najwiêkszym koszmarem!~
+@1093 = ~Walcz ze mn¹ skoro musisz, ale nigdy nie dorównasz mym najwiêkszym koszmarom, jeœli nie staniesz siê obrazem mnie samego zabijaj¹cego moich niumar³ych, szalonych rodziców.~
+@1094 = ~Chyba nie myœlisz, ¿e ta wyciskaj¹ca ³zy historyjka mnie powstrzyma. Ale przynajmniej masz racjê co do tych nieumar³ych. Przygotuj siê do Ostatecznej Œmierci g³upcze.!~
+
+// Anath
+@1100 = ~Amaunator? Nie wymawiaj tego imienia przy mnie, wilku. Nie mamy czasu na twoje k³amstwa.~
+@1101 = ~Ocierasz siê o œmieræ kobieto. Musisz byæ w przymierzu z Panem Cieni. Zabijê ciê aby pomœciæ mój klan.~
+@1102 = ~(sykniêcie) Wiêc choæ! Twoje k³amstwa i ¿ycie koñcz¹ siê w tym miejscu.~
+
+// Roger
+@1110 = ~Valen! Jesteœ ukojeniem dla mych zmêczonych oczu.~
+@1111 = ~Roger! Jak siê masz ty stary piracie?~
+@1112 = ~Có¿ poza tym, ¿e jestem zmuszony do tu³ania siê po kana³ach, przez pewn¹ wojnê gildii, wszystko jest ca³kiem wspania³e. Jednak ty wydajesz siê trochê blada. Czy nie przebywasz zbyt czêsto poza s³oñcem?~
+@1113 = ~Powiedzmy, ¿e za¿ywam tyle s³oñca ile go potrzebujê w dzisiejszych czasach.~
+@1114 = ~Pos³uchaj. Ostatnio jest tu trochê niebezpiecznie. By³oby lepiej gdybyœ porzuci³a z³odziejski interes na jakiœ czas.~
+@1115 = ~Nie martw siê, Rog, zajmujê siê czymœ zupe³nie innym.~
+@1116 = ~O ile jesteœ szczêœliwa, p¹czusiu.~
+@1117 = ~Wiesz, ¿e jesteœ jedyn¹ osob¹, która mo¿e tak mnie nazywaæ bez spotkania siê z losem gorszym od œmierci.~
+@1118 = ~To tylko dlatego, ¿e pamiêtasz kto zaj¹³ siê twoim pierwszym ³upem nie oszukuj¹c ciê, gdy by³aœ jeszcze ma³¹ dziewczynk¹.~
+@1119 = ~Masz serce ze z³ota. Mam tylko nadziejê, ¿e bêdzie ono jeszcze bi³o, kiedy spotkamy siê nastêpnym razem. Trzymaj siê mój przyjacielu.~
+@1120 = ~Ty te¿.~
+
+// Aran
+@1130 = ~Nie wydaje mi siê Aran. Jako przedstawicielka tej "suki", nie mogê siê doczekaæ a¿ utnê ci jêzyk i podam ci go na tacy.~
+@1131 = ~Tylko spokojnie! Ma³y ptaszek przestrzeg³ mnie przed tak¹ interwencj¹. Mask, ochraniaj mnie!~
+@1132 = ~Nawet Mask ci teraz nie pomo¿e! Przygotuj siê na Ostateczn¹ Œmieræ!~
+
+// Imoen
+@1140 = ~To jest ta któr¹ chcia³eœ uratowaæ? Wszystko to dla tej bezdusznej istoty?~
+@1141 = ~Taka... pusta. Ale ty! Nie zbli¿aj siê do mnie! Jesteœ taka sama, jak Ona! Wyd³ubiê ci oczy... te czerwone oczy.~
+@1142 = ~Ona jest po prostu z³udzeniem. To tyle jeœli chodzi o tê twoj¹ ca³¹ Imoen.~
+
+// Lonk
+@1150 = ~Nie mamy teraz czasu zajmowaæ siê tym gryzipiórkiem... zreszt¹ jego têtno wygl¹da ca³kiem obiecuj¹co. Wykoñczmy go i dopadnijmy Irenicusa.~
+@1151 = ~Czy ty mi grozisz dziewko?~
+@1152 = ~(s³odko) Chyba tak Lonk. Tak mi siê w³aœnie wydaje.~
+
+// Dace
+@1160 = ~To ty jesteœ Dace, zgadza siê? S³ysza³am o tobie. Mistrz Cohn mówi³, ¿e wykonywa³eœ coœ wa¿nego dla naszej Pani.~
+@1161 = ~Wa¿nego kiedyœ, ale teraz ju¿ nie. Teraz kiedy moja praca zosta³a ju¿ wykonana, Bodhi odsunê³a nie na bok jak bezu¿yteczne narzêdzie.~
+@1162 = ~(sykniêcie) Tak samo post¹pi³a ze mn¹. Przykro mi to mówiæ, ale jest to strona Pani, która nie za bardzo mi siê podoba. Ach jakbym chcia³a aby mnie znowu przyjê³a do s³u¿by!~
+@1163 = ~Nied³ugo zostaniesz pozbawiona tych z³udzeñ, malutka. Bodhi jest potê¿nym wampirem, ale nie jest twoim zbawieniem.~
+@1164 = ~Jak mo¿emy siê wydostaæ z tego labiryntu Dace? Proszê powiedz nam, jak to zrobiæ.~
+@1165 = ~W ni¿szej komnacie w pomieszczeniu na zachodzie jest statua. Przepuœci was ona dalej jeœli bêdziecie posiadaæ dwa potê¿ne artefakty. Jednym jest od³amek kryszta³u. Jeœli ju¿ j¹ miniecie znajdziecie siê w labiryncie zamieszkanym przez minotaury.~
+@1166 = ~Jest t doskona³e miejsce do zasadzek, wiêc jeœli ktoœ was oczekuje to w³aœnie tam go znajdziecie. Bêdziecie musieli znaleŸæ dwa kamienne rogi minotaura i przytwierdziæ je do statuy aby siê stamt¹d wydostaæ. Po tym znajdziecie siê w ³asce dawno-zmar³ych kierowników.~
+@1167 = ~Poddadz¹ was oni jakimœ badaniom umys³owym, ale nie jestem pewien co siê dzieje póŸniej. W ka¿dym razie ¿yczê wam powodzenia.~
+@1168 = ~Dziêkujê Dace. Ale co z tym drugim artefaktem o którym wspomnia³eœ?~
+@1169 = ~Drugim z nich jest moja dobra wola, któr¹ symbolizuje moja rêka. Zbyt du¿o czasu spêdzi³em w tym nie¿yciu, a moja Pani ju¿ o mnie zapomnia³a. Nadszed³ czas na mój koniec.~
+@1170 = ~Przecie¿ wszyscy mo¿emy siê st¹d wydostaæ!~
+@1171 = ~Nie! Zablokowa³em drogê; musicie wyzwoliæ mnie za pomoc¹ Ostatecznej Œmierci. Choæ do mnie dziecko. Zmierz siê ze starszymi!~
+
+// Saemon
+@1180 = ~To znowu ty Saemon? To jest oszust, <CHARNAME>, ale lubiê takich, jak on. Coœ mi mówi, ¿e powinniœmy mu zaufaæ. Mo¿esz to nazwaæ... z³odziejsk¹ intuicj¹.~
+@1181 = ~Dziêkuje ci za twe... dobre s³owa pani.~
+@1182 = ~Mówisz jak cz³owiek ca³kiem pewny siebie.~
+@1183 = ~Ranisz mnie pani, zaprawdê twoje s³owa rani¹ moje serce!~
+@1184 = ~Podczas gdy twoje s³owa i ¿agle odzywaj¹ siê tylko, gdy maj¹ sprzyjaj¹cy wiatr. Czy musisz traciæ wiêcej czasu na umycie swych obu oblicz, gdy wstajesz rano Saemonie?~ 
+@1185 = ~Twoje fa³szywe oskar¿enia szybko we mnie trafiaj¹!~
+@1186 = ~A ty zawsze jesteœ w stanie szybko obróciæ przegrane na swoj¹ korzyœæ, gdy sytuacja nie uk³ada siê po twojej myœli?~
+@1187 = ~Odwrócenie siê od twej piêknej twarzy by³oby zaiste moj¹ klêsk¹.~
+@1188 = ~Wystarczy tego. Nawet poza niechêci¹ jaka odczuwam wobec takich dowcipnych ³otrów <CHARNAME>, lubiê tego œmiertelnika. Zobaczmy có¿ takiego ma do zaoferowania po kolejnym spotkaniu siê z nasz¹ weso³¹ gromadk¹.~
+@1189 = ~Irenicus umkn¹³ przez portal prowadz¹cy do Podmroku, ale myœlê, ¿e uda nam siê go przegoniæ jeœli udamy siê na powierzchniê i skorzystamy z mojego okrêtu. Czy nasza pierwsza podró¿ nie by³a szybka i przyjemna? Obiecujê wam podobn¹ przeprawê, jeœli wyruszycie ze mn¹ ponownie.~
+
+// Demon
+@1190 = ~Zatrzymaj siê demonie! Mam tu jaja srebrnego smoka! Ofiarujê ci je w zamian za udoskonalenie moich umiejêtnoœci i dwa magiczne artefakty.~
+@1191 = ~** TAK MYŒLISZ WAMPIRZE? JAKIE¯ TO INTERESUJ¥CE. DZIECIÊ BHAALA JEST ZAPRAWDÊ ODWA¯NE SKORO POSIADA TAK POTE¯NYCH POMOCNIKÓW. **~
+
+// Simyaz
+@1200 = ~(sykniêcie) Nie, w³aœciwie to zniszczyliœmy ca³¹ tê enklawê bez twojej pomocy!~
+@1201 = ~Twoje sztuczki nie podzia³aj¹ na mnie starcze. Jestem na nie odporna. I jestem gotowa, aby odp³aciæ wam za to, ¿e zostawiliœcie nas samych z tymi potworami.~
+@1202 = ~Odp³aciæ nam?~
+@1203 = ~Tak... krwi¹! Przygotujcie siê tchórze do Ostatecznej Œmierci!~
+
+// Drizzt
+@1210 = ~Nie tak szybko. Opowieœci o twojej sile... i potê¿nym ekwipunku... rozesz³y siê po ca³ym œwiecie. A ja jestem w pe³ni gotowa aby sprawdziæ twoje mo¿liwoœci.~
+@1211 = ~Co ty mówisz kobieto?~
+@1212 = ~Mówiê, ¿e wkrótce po¿ywiê siê na twojej duszy drowie.~
+@1213 = ~Nie bêdê ³atwym celem!~
+@1214 = ~(s³odko) Och, mam nadziejê, ¿e tak bêdzie.~
+@1215 = ~Przygotuj siê biesie!~
+
+// Elhan
+@1220 = ~Zaufaj mi o spiczasto uchy, pamiêtam ka¿de zdanie, gdzie jest wspomniane imiê Bodhi... i my nie przekazaliœmy ci tej tajemnicy od razu.~
+
+// Demin
+@1230 = ~Rewelacja! Elfy odkry³y coœ oczywistego, zaraz zostanie to wyjawione w przynudnawej przemowie z ca³ym zachowaniem dramatycznego dystansu i aroganckiej postawy.~
+
+// Hell Sarevok
+@1240 = ~Wyczuwam tu zak³amanie, a nawet nie mówi on do mnie. Nie przegap tej szansy <CHARNAME>. Zg³adŸ go! Wyzwól swój gniew!~
+

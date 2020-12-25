@@ -1,0 +1,72 @@
+@1 = ~Eblouie par le soleil~
+
+
+
+@2 = ~Armure de Valen~
+@3 = ~Armure de Valen
+L'armure d'ombres de Valen était un cadeau de sa Maîtresse destiné à l'aider à survivre en dehors de la crypte. Elle est légère et souple, plus comme une chemise en hermine que comme une véritable armure de cuir. De puissants enchantements maléfiques, impliqués dans la création de cet objet, empêchent la lumière crue du soleil de vaporiser la chair de vampire de Valen. Elle reste cependant affaiblie sous son éclat. 
+
+En tant que véritable vampire, Valen possède les immunités habituelles de sa race à l'immobilisation, aux charmes, à la magie de la mort et au poison. Elle est résistante au froid et aux dommages électriques. Elle se regénère d'un point de vie toutes les deux secondes.~ 
+
+@4 = ~Armure de Valen
+L'armure d'ombres de Valen était un cadeau de sa Maîtresse destiné à l'aider à survivre en dehors de la crypte. Elle est légère et souple, plus comme une chemise en hermine que comme une véritable armure de cuir. De puissants enchantements maléfiques, impliqués dans la création de cet objet, empêchent la lumière crue du soleil de vaporiser la chair de vampire de Valen. Elle reste cependant affaiblie sous son éclat. 
+
+En tant que véritable vampire, Valen possède les immunités habituelles de sa race à l'immobilisation, aux charmes, à la magie de la mort et au poison. Elle ne peut être blessée par des armes non-magiques. Elle est résistante au froid et aux dommages électriques. Elle se regénère d'un point de vie chaque seconde.~ 
+
+@5 = ~Armure de Valen
+L'armure d'ombres de Valen était un cadeau de sa Maîtresse destiné à l'aider à survivre en dehors de la crypte. Elle est légère et souple, plus comme une chemise en hermine que comme une véritable armure de cuir. De puissants enchantements maléfiques, impliqués dans la création de cet objet, empêchent la lumière crue du soleil de vaporiser la chair de vampire de Valen. Elle reste cependant affaiblie sous son éclat. 
+
+En tant que véritable vampire, Valen possède les immunités habituelles de sa race à l'immobilisation, aux charmes, à la magie de la mort et au poison. Elle ne peut être blessée par des armes non-magiques ou les armes +1. Elle est résistante au froid et aux dommages électriques. Elle se regénère d'un point de vie chaque seconde.~ 
+
+@6 = ~Armure de Valen
+L'armure d'ombres de Valen était un cadeau de sa Maîtresse destiné à l'aider à survivre en dehors de la crypte. Elle est légère et souple, plus comme une chemise en hermine que comme une véritable armure de cuir. De puissants enchantements maléfiques, impliqués dans la création de cet objet, empêchent la lumière crue du soleil de vaporiser la chair de vampire de Valen. Elle reste cependant affaiblie sous son éclat. 
+
+En tant que véritable vampire, Valen possède les immunités habituelles de sa race à l'immobilisation, aux charmes, à la magie de la mort et au poison. Elle ne peut être blessée par des armes non-magiques ou les armes +1 ou +2. Elle est résistante au froid et aux dommages électriques. Elle se regénère de deux points de vie chaque seconde.~ 
+
+
+
+@7 = ~Griffes de Valen~
+
+@12 = ~Griffes de Valen
+Comme pour tous les vampires, les griffes de Valen constituent un passage vers le Plan Negatif. Leur toucher glacial compte comme une arme +2, infligeant 1d6+2 points de dommage et drainant 1 niveau de sa cible.~
+
+@8 = ~Griffes de Valen
+Comme pour tous les vampires, les griffes de Valen constituent un passage vers le Plan Negatif. Leur toucher glacial compte comme une arme +2, infligeant 1d6+2 points de dommage et drainant 2 niveaux de sa cible.~
+
+@9 = ~Griffes de Valen
+Comme pour tous les vampires, les griffes de Valen constituent un passage vers le Plan Negatif. Leur toucher glacial compte comme une arme +3, infligeant 1d6+3 points de dommage et drainant 3 niveaux de sa cible.~
+@10 = ~Griffes de Valen
+Comme pour tous les vampires, les griffes de Valen constituent un passage vers le Plan Negatif. Leur toucher glacial compte comme une arme +4, infligeant 1d6+4 points de dommage et drainant 4 niveaux de sa cible.~
+@11 = ~Griffes de Valen
+Comme pour tous les vampires, les griffes de Valen constituent un passage vers le Plan Negatif. Leur toucher glacial compte comme une arme +5, infligeant 1d6+5 points de dommage et drainant 5 niveaux de sa cible.~
+
+@15 = ~Quand elle est questionnée sur son passé, VALEN vous sort un étrange parcours. Elle raconte rapidement qu'elle était autrefois une brigande à plein temps jusqu'à ce qu'elle rencontre sa Maîtresse Bodhi. Sous la direction de Bodhi elle apprit les arts des voleurs et lorsqu'elle devint un vampire ses deux carrières ne firent plus qu'une. Bodhi à ordonné à Valen de vous obéir, et c'est ce qu'elle a fait jusqu'à présent ... mais il y a quelque chose de déconcertant au sujet de ses "changements de loyauté".~
+
+
+@16 = ~Cynara~
+
+
+
+// The Hunters
+@20 = ~Buffy~
+@21 = ~Faith~
+@22 = ~Kendra~
+@23 = ~Van Helsing~
+@24 = ~Oui !!! Nous avons tué le démon !!! Réjouissons-nouse !~
+@25 = ~Lathandre, aides-moi à triompher de ce monstre !~
+@26 = ~Lathandre, révèles mes ennemis à mes yeux !~
+@27 = ~Lathandre, extermines ce mal ! Ne le laisse pas récupérer !~
+@28 = ~Seigneur de l'Aube ! Protèges ton humble serviteur !~
+
+@4001 = ~
+
+** AVERTISSEMENT **
+
+Il semblerait que vous n'ayez pas installé BG2: Throne of Bhaal. Le mod
+Valen requiert ToB. Cette installation va probablement échouer. Installez
+Throne of Bhaal! 
+
+** AVERTISSEMENT ** 
+
+~
+
