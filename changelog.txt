@@ -1,0 +1,39 @@
+Changelog of the enhanced port by Hellmouse
+
+----
+V0.0.1 (EE release)
+
+This is the first github release, I imported the original Weimer's code into git and made the required updates via different commits. There are 5 types of change:
+
+- no change at all, the file is exactly the same as Weimer's one, at the same path
+- updated path: for easier compilation and/or code readability, the file has been moved to another directory but left unchanged
+- recompile - the file has been uncompiled using weimer latest version to make sure it is compatible with the enhanced edition. The source has not been modified
+- replaced with EE version the file has been replaced by an EE external file because it was not compatible at all.
+- updated - the file content has been updated with the listed modifications
+
+
+## unmodified files
+- valen.cre (valen creature file)
+- todo  (Weimer to do list)      
+- valenend.2da  (2da file)
+- README-Valen.txt readme file
+- valen.spl  valenmst.spl
+
+## moved only files (no change on the content)
+- all .d files moved to /dialogs/ or /hunt1/dialogs/ for the hunter module
+- all .tra folders moved to /languages
+- all .itm (items) moved to /items
+
+## recompiled file (no change)
+- all scripts (.bcs files) -> moved to scripts/ or $componentName/scripts
+
+## replace with EE version:
+- Setup-Valen.exe replaced by latest weidu.exe
+- portraits replaced by a photoshoped resized version (not ideal for quality, but I resizing is mandatory for the EE version and I did with what I had...)
+- ids file replaced with an EE version (should be the lastest). This one could cause incompatibility bugs with mods that update the ids of the game
+
+## changed
+- Setup-Valen.tp2:
+	- Update the path of moved files
+	- Make the installer compiling the bcs file rather than copy compiled one
+	- Make the priest component optional (in short, this component makes all the non evil priests hostile to the party if they see Valen. This can break the game (or at least a quest) if a non evil priest interaction with the party is required. I know there is at least one in Dorn quest, there may be many other in the EE content and / or other mods).

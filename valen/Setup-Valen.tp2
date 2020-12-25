@@ -1,0 +1,228 @@
+
+
+BACKUP ~valen/backup~
+AUTHOR ~weimer@cs.berkeley.edu~
+
+///////////////////////////////////////////////////////////////////////
+// Always
+// This block is run just before any component is installed. We need
+// this to make sure that we can compile the BAF files. 
+///////////////////////////////////////////////////////////////////////
+ALWAYS
+
+  ACTION_IF NOT FILE_EXISTS ~override/action.ids~ THEN BEGIN 
+    COPY ~valen/ids/action.ids~ ~override/action.ids~
+  END
+  ACTION_IF NOT FILE_EXISTS ~override/trigger.ids~ THEN BEGIN 
+    COPY ~valen/ids/trigger.ids~ ~override/trigger.ids~
+  END
+  ACTION_IF NOT FILE_EXISTS ~override/spell.ids~ THEN BEGIN 
+    COPY ~valen/ids/spell.ids~ ~override/spell.ids~
+  END
+  ACTION_IF NOT FILE_EXISTS ~override/shoutids.ids~ THEN BEGIN 
+    COPY ~valen/ids/shoutids.ids~ ~override/shoutids.ids~
+  END
+
+END 
+
+ALLOW_MISSING ~ar6200.bcs~ // ToB epilogues
+
+LANGUAGE "American English" "american" 
+  ~valen/languages/american/setup.tra~
+  ~valen/languages/american/epilogue.tra~
+LANGUAGE "Francais (traduction de Ly Meng, Laurent Duvernet et Cocobard)" "french" 
+  ~valen/languages/american/setup.tra~
+  ~valen/languages/french/setup.tra~
+  ~valen/languages/american/epilogue.tra~
+  ~valen/languages/french/epilogue.tra~
+LANGUAGE ~Traducción al Español (hecha por Clan REO)~ "spanish"
+  ~valen/languages/american/setup.tra~
+  ~valen/languages/spanish/setup.tra~
+  ~valen/languages/american/epilogue.tra~
+  ~valen/languages/spanish/epilogue.tra~
+LANGUAGE ~Deutsche Sprache (Übersetzung durch Sebastian de Waal & Thalantyr & Tanis & Falk)~ 
+  "german"
+  ~valen/languages/american/setup.tra~
+  ~valen/languages/german/setup.tra~
+  ~valen/languages/american/epilogue.tra~
+LANGUAGE ~Polski je;zyk (Przet?umaczony przez Grzesiek Miazga)~ 
+  "polish"
+  ~valen/languages/american/setup.tra~
+  ~valen/languages/polish/setup.tra~
+  ~valen/languages/american/epilogue.tra~
+  ~valen/languages/polish/epilogue.tra~
+LANGUAGE ~Italiano (by Al17 e Kelvan, http://rtt.altervista.org)~
+   ~valen/languages/american/setup.tra~
+   ~valen/languages/italian/setup.tra~
+   ~valen/languages/american/epilogue.tra~
+   ~valen/languages/italian/epilogue.tra~
+LANGUAGE ~Russian (translation by AERIE.ru)~
+         ~russian~
+         ~valen/languages/american/setup.tra~
+         ~valen/languages/russian/setup.tra~
+         ~valen/languages/russian/epilogue.tra~
+LANGUAGE "Chinese-Simplified (translation by yun395,kalabaka)" "chs" 
+  ~valen/languages/american/setup.tra~
+  ~valen/languages/chs/setup.tra~		
+  ~valen/languages/american/epilogue.tra~
+  ~valen/languages/chs/epilogue.tra~
+LANGUAGE "Chinese-Traditional (translation by yun395,kalabaka)" "cht" 
+  ~valen/languages/american/setup.tra~
+  ~valen/languages/cht/setup.tra~		
+  ~valen/languages/american/epilogue.tra~
+  ~valen/languages/cht/epilogue.tra~
+LANGUAGE "Japanese (translation by ironthrone)" "japan" 
+  ~valen/languages/american/setup.tra~
+  ~valen/languages/japan/setup.tra~		
+  ~valen/languages/american/epilogue.tra~
+  ~valen/languages/japan/epilogue.tra~
+
+BEGIN ~Valen~
+
+ACTION_IF NOT FILE_EXISTS ~Data/25Dialog.bif~ THEN BEGIN
+  PRINT @4001
+END 
+
+COPY    ~valen/valenS.bmp~      ~override/valenS.bmp~
+        ~valen/valenL.bmp~      ~override/valenL.bmp~
+        ~valen/valenL.bmp~      ~portraits/valenL.bmp~
+        ~valen/valenS.bmp~      ~portraits/valenS.bmp~
+
+COPY_EXISTING ~ANAST.CRE~      ~override/ANAST.CRE~
+  WRITE_ASCII 0x34 "valenS"
+
+COPY_EXISTING ~C6VALEN.CRE~     ~override/c6valen.cre~
+  SAY NAME1 @16 SAY NAME2 @16
+
+COPY    ~valen/valen.cre~       ~override/valen.cre~
+  SAY BIO @15
+
+COMPILE ~valen/scripts~
+  
+COPY    ~valen/valen.spl~     ~override/valen.spl~ SAY NAME1 @1 SAY NAME2 @1
+COPY    ~valen/items/valena1.itm~   ~override/valena1.itm~ SAY NAME2 @2 SAY DESC @3 
+COPY    ~valen/items/valena2.itm~   ~override/valena2.itm~ SAY NAME2 @2 SAY DESC @4 
+COPY    ~valen/items/valena3.itm~   ~override/valena3.itm~ SAY NAME2 @2 SAY DESC @5 
+COPY    ~valen/items/valena4.itm~   ~override/valena4.itm~ SAY NAME2 @2 SAY DESC @6
+COPY    ~valen/valenmst.spl~    ~override/valenmst.spl~
+  SAY NAME1 #57971 // gaseous form
+  SAY NAME2 #57971 // gaseous form
+
+COPY    ~valen/items/valenh1.itm~   ~override/valenh1.itm~ SAY NAME2 @7 SAY DESC @12 
+COPY    ~valen/items/valenh2.itm~   ~override/valenh2.itm~ SAY NAME2 @7 SAY DESC @8 
+COPY    ~valen/items/valenh3.itm~   ~override/valenh3.itm~ SAY NAME2 @7 SAY DESC @9
+COPY    ~valen/items/valenh4.itm~   ~override/valenh4.itm~ SAY NAME2 @7 SAY DESC @10
+COPY    ~valen/items/valenh5.itm~   ~override/valenh5.itm~ SAY NAME2 @7 SAY DESC @11
+
+COMPILE ~valen/dialogs/valen.d~
+  USING ~valen/languages/american/valen.tra~
+        ~valen/%s/valen.tra~
+
+COMPILE ~valen/dialogs/valenint.d~
+  USING ~valen/languages/american/valenint.tra~
+        ~valen/languages/%s/valenint.tra~
+
+ACTION_IF FILE_EXISTS ~Data/25Dialog.bif~ THEN BEGIN
+  PRINT ~Installing ToB dialogue.~
+  COMPILE ~valen/dialogs/valentob.d~
+    USING ~valen/languages/american/valentob.tra~
+          ~valen/languages/%s/valentob.tra~
+END
+
+APPEND ~pdialog.2da~
+~Valen      ValenP           ValenJ          ValenD~
+UNLESS ~Valen~
+UNLESS ~25POST~
+
+APPEND ~pdialog.2da~
+~Valen      ValenP           ValenJ          ValenD       ValenP                ValenJ                Valen                   Valen~
+UNLESS ~Valen~
+IF ~25POST~
+
+EXTEND_TOP ~ar0902.bcs~ ~override/ar0902.bcs~
+EXTEND_TOP ~ar0903.bcs~ ~override/ar0903.bcs~
+EXTEND_TOP ~sht0903.bcs~ ~override/sht0903.bcs~
+EXTEND_TOP ~sht0902.bcs~ ~override/sht0903.bcs~
+
+// The Vampire Hunters
+COMPILE ~valen/hunt1/scripts~
+
+COPY    ~valen/hunt1/valenuh1.cre~      ~override/valenuh1.cre~
+  SAY NAME1 @20 SAY NAME2 @20
+COPY    ~valen/hunt1/valenuh2.cre~      ~override/valenuh2.cre~
+  SAY NAME1 @21 SAY NAME2 @21
+COPY    ~valen/hunt1/valenuh3.cre~      ~override/valenuh3.cre~
+  SAY NAME1 @22 SAY NAME2 @22
+COPY    ~valen/hunt1/valenuh4.cre~      ~override/valenuh4.cre~
+  SAY NAME1 @23 SAY NAME2 @23
+COPY    ~override/valensla.bcs~      ~override/valensla.bcs~
+        ~override/valenuh4.bcs~      ~override/valenuh4.bcs~
+  REPLACE 99991 @24
+  REPLACE 99992 @25 
+  REPLACE 99993 @26 
+  REPLACE 99994 @27 
+  REPLACE 99995 @28 
+COMPILE ~valen/hunt1/dialogs/hunt1.d~
+  USING ~valen/languages/american/hunt1.tra~
+        ~valen/languages/%s/hunt1.tra~
+
+// ToB Epilogue
+COPY ~valen/valenend.2da~ ~override/valenend.2da~ REPLACE ~999999~ @999999
+EXTEND_TOP ~ar6200.bcs~ ~override/valenend.bcs~
+
+
+BEGIN ~Give More Creatures Protection From Level Drain & Undead~ 
+DESIGNATED 10 // 1 used to be "anti paladin kit" 
+
+COPY ~valen/items/levimm.itm~ ~override~ 
+     ~valen/items/prodead.itm~ ~override~
+
+COPY_EXISTING_REGEXP GLOB ".*\.CRE" "override"
+  PATCH_IF SOURCE_SIZE > 0x274 THEN BEGIN 
+    READ_BYTE   0x272 race
+    READ_BYTE   0x273 class
+    READ_SHORT  0x28  animation
+    PATCH_IF 
+         (race = 144) // golem
+      OR (race = 145) // elemental
+      OR (race = 121) // demonic
+      OR (race = 119) // slime
+      OR (race = 136) // mist
+      OR (animation = 32565) // mist creature
+      OR (animation = 32572) // antisolar
+      OR (animation = 32571) // solar
+      OR (animation = 25605) // empty circle (e.g., mephit portal)
+      OR (animation = 25606) // big empty circle (e.g., shadow altar)
+      THEN BEGIN 
+        // grants immunity to level drain 
+        ADD_CRE_ITEM ~LEVIMM~ #0 #0 #0 ~UNDROPPABLE~ 
+          ~GLOVES BELT LRING RRING AMULET BOOTS HELMET~ 
+    END 
+    PATCH_IF 
+         (class = 3)    // CLERIC
+      OR (class = 204)  // CLERIC_ALL
+      OR (class = 14)   // CLERIC_MAGE
+      OR (class = 18)   // CLERIC_RANGER
+      OR (class = 15)   // CLERIC_THIEF
+      OR (class = 8)    // FIGHTER_CLERIC
+      OR (class = 15)   // CLERIC_THIEF
+      OR (class = 17)   // FIGHTER_MAGE_CLERIC
+      OR (class = 6)    // PALADIN
+      THEN BEGIN
+        READ_ASCII      0x280 deathvar
+        // don't give extra power to Aerie, Anomen, Keldorn, etc. 
+        PATCH_IF NOT FILE_CONTAINS_EVALUATED(~pdialog.2da~ ~%deathvar%~) THEN
+          BEGIN 
+          // gives a 50% chance on creature creation of that creature
+          // using a "protection from undead" scroll
+          ADD_CRE_ITEM ~PRODEAD~ #0 #0 #0 ~UNDROPPABLE~ 
+            ~GLOVES BELT LRING RRING AMULET BOOTS HELMET~ 
+        END 
+    END 
+  END 
+  BUT_ONLY_IF_IT_CHANGES
+
+BEGIN ~Add reaction to non evil priest (mandatory on original Weimer's Valen mod)~
+COMPILE ~valen/priest~ 
+EXTEND_TOP_REGEXP ~.*\(PRIE\|CLER\|HEAL\|PRST\|SHAM\).*\.BCS~ ~override/priest.bcs~ 
+AT_INTERACTIVE_EXIT ~VIEW valen\README-Valen.txt~

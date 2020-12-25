@@ -223,7 +223,7 @@ COPY_EXISTING_REGEXP GLOB ".*\.CRE" "override"
   END 
   BUT_ONLY_IF_IT_CHANGES
 
-BEGIN ~Add reaction to non evil priest (mandatory on original Weimer's Valen mod)~
+BEGIN ~Add reaction to non evil priests (mandatory on original Weimer's Valen mod)~
 COMPILE ~valen/priest~ 
 EXTEND_TOP_REGEXP ~.*\(PRIE\|CLER\|HEAL\|PRST\|SHAM\).*\.BCS~ ~override/priest.bcs~ 
 AT_INTERACTIVE_EXIT ~VIEW valen\README-Valen.txt~
