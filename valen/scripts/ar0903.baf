@@ -1,0 +1,12 @@
+IF
+  InParty("Valen")  // ~Valen~
+  Global("TempleShout0903","GLOBAL",0)
+THEN
+  RESPONSE #100
+    SetGlobal("TempleShout0903","GLOBAL",1)
+    ActionOverride("valen",DisplayString(Myself,58896))  // ~Oh please! I get the feeling I am just not welcome here.~
+    ActionOverride("heartg3",ReallyForceSpell(Myself,CLERIC_DETECT_EVIL))
+    Wait(1)
+    ActionOverride("heartg4",DisplayString(Myself,68230))  // ~The monster comes—prepare your weapons.~
+END
+

@@ -1,0 +1,53 @@
+IF
+  See([PC.UNDEAD])
+  !Alignment(Myself,MASK_EVIL)
+  !Allegiance(Myself,ENEMY)
+  !HasItem("MISCCA",Myself)  // ~Demin's Note~
+THEN
+  RESPONSE #100
+    DisplayString(Myself,31285)  // ~What is this? You support this fiend?~
+    Enemy()
+END
+
+IF
+  See(NearestEnemyOfType([GOODCUTOFF.UNDEAD]))
+  !GlobalTimerNotExpired("FreeAntiUndead","LOCALS")
+THEN
+  RESPONSE #50
+    DisplayString(Myself,46153)  // ~*uses a scroll*~
+    ForceSpell(LastSeenBy(Myself),CLERIC_FLAME_STRIKE)
+    SetGlobalTimer("FreeAntiUndead","LOCALS",FOUR_TURNS)
+  RESPONSE #50
+    DisplayString(Myself,46153)  // ~*uses a scroll*~
+    ForceSpell(LastSeenBy(Myself),CLERIC_REPULSE_UNDEAD)
+    SetGlobalTimer("FreeAntiUndead","LOCALS",FOUR_TURNS)
+  RESPONSE #50
+    DisplayString(Myself,46153)  // ~*uses a scroll*~
+    ForceSpell(LastSeenBy(Myself),CLERIC_FALSE_DAWN)
+    SetGlobalTimer("FreeAntiUndead","LOCALS",FOUR_TURNS)
+  RESPONSE #50
+    DisplayString(Myself,46153)  // ~*uses a scroll*~
+    ForceSpell(LastSeenBy(Myself),CLERIC_BOLT_OF_GLORY)
+    SetGlobalTimer("FreeAntiUndead","LOCALS",FOUR_TURNS)
+  RESPONSE #50
+    DisplayString(Myself,46153)  // ~*uses a scroll*~
+    ForceSpell(LastSeenBy(Myself),CLERIC_SUNRAY)
+    SetGlobalTimer("FreeAntiUndead","LOCALS",FOUR_TURNS)
+END
+
+IF
+  Allegiance(Myself,ENEMY)
+  OR(2)
+    !See([ALLY.UNDEAD])
+    Alignment(Myself,MASK_EVIL)
+  See(NearestEnemyOfType([GOODCUTOFF.UNDEAD]))
+  Delay(6)
+THEN
+  RESPONSE #50
+    DisplayString(Myself,31952)  // ~Begone from us, brute!~
+    Turn()
+    Wait(6)
+  RESPONSE #50
+    Continue()
+END
+

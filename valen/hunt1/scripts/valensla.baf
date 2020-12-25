@@ -1,0 +1,176 @@
+IF
+  Die()
+THEN
+  RESPONSE #100
+    ReputationInc(-4)
+END
+
+IF
+  Allegiance(Myself,NEUTRAL)
+  OR(14)
+    Global("ValenHunt1Fight","GLOBAL",1)
+    TookDamage()
+    AttackedBy([GOODCUTOFF.0.0.0.0.SUMMONED],DEFAULT)
+    AttackedBy([PC],DEFAULT)
+    AttackedBy([FAMILIAR],DEFAULT)
+    AttackedBy([ALLY],DEFAULT)
+    AttackedBy([CONTROLLED],DEFAULT)
+    AttackedBy([CHARMED],DEFAULT)
+    SpellCastOnMe([GOODCUTOFF.0.0.0.0.SUMMONED],0)
+    SpellCastOnMe([PC],0)
+    SpellCastOnMe([FAMILIAR],0)
+    SpellCastOnMe([ALLY],0)
+    SpellCastOnMe([CONTROLLED],0)
+    SpellCastOnMe([CHARMED],0)
+THEN
+  RESPONSE #100
+    Enemy()
+    SetGlobal("ValenHunt1Fight","GLOBAL",1)
+    Continue()
+END
+
+IF
+  Dead("Valen")  // ~Valen~
+THEN
+  RESPONSE #100
+    DisplayString(Myself,99991)  // ~Demishadow Monsters~
+    EscapeArea()
+END
+
+IF
+  Global("ValenHunt1Fight","GLOBAL",0)
+  Global("ValenHunt1Peace","GLOBAL",0)
+  Allegiance(Myself,NEUTRAL)
+THEN
+  RESPONSE #100
+END
+
+IF
+  Detect("Valen")  // ~Valen~
+  !GlobalTimerNotExpired("Boon","LOCALS")
+THEN
+  RESPONSE #100
+    SetGlobalTimer("Boon","LOCALS",TEN_ROUNDS)
+    DisplayString(Myself,99992)  // ~Darkness, 15' Radius~
+    ReallyForceSpell(Myself,LATHANDER_BOON)
+    Continue()
+END
+
+IF
+  Detect("Valen")  // ~Valen~
+  !See("Valen")  // ~Valen~
+  !Dead("Valen")  // ~Valen~
+THEN
+  RESPONSE #100
+    DisplayString(Myself,99993)  // ~Pickaxe~
+    ReallyForceSpell(Myself,CLERIC_TRUE_SIGHT)
+    Continue()
+END
+
+IF
+  !GlobalTimerNotExpired("Cast","LOCALS")
+  Global("Deva","LOCALS",0)
+  Global("ValenHunt1Fight","GLOBAL",1)
+  OR(2)
+    See(Myself)
+    See("Valen")  // ~Valen~
+THEN
+  RESPONSE #100
+    SetGlobal("Deva","LOCALS",1)
+    SetGlobalTimer("Cast","LOCALS",ONE_ROUND)
+    ForceSpell(Myself,PALADIN_SUMMON_DEVA)
+END
+
+IF
+  !Detect("Valen")  // ~Valen~
+  !Dead("Valen")  // ~Valen~
+THEN
+  RESPONSE #100
+    MoveToObject("Valen")
+END
+
+IF
+  OR(3)
+    See("Valen")  // ~Valen~
+    See(NearestEnemyOf(Myself))
+    See([GOODCUTOFF.UNDEAD])
+  False()
+THEN
+  RESPONSE #100
+END
+
+IF
+  HasItem("POTN55",Myself)  // ~Potion of Superior Healing~
+  HPPercentLT(Myself,20)
+  Global("Save","LOCALS",0)
+THEN
+  RESPONSE #100
+    SetGlobal("Save","LOCALS",1)
+    DisplayString(Myself,99995)  // ~Dwarven Pickaxe +1~
+    ReallyForceSpell(Myself,CLERIC_SANCTUARY)
+    ForceSpell(Myself,CLERIC_HEAL)
+    SetGlobalTimer("Cast","LOCALS",ONE_ROUND)
+END
+
+IF
+  !GlobalTimerNotExpired("Cast","LOCALS")
+  HasItem("POTN55",Myself)  // ~Potion of Superior Healing~
+  HPPercentLT(Myself,50)
+THEN
+  RESPONSE #100
+    SetGlobalTimer("Cast","LOCALS",ONE_ROUND)
+    UseItem("POTN55",Myself)  // ~Potion of Superior Healing~
+END
+
+IF
+  Range(LastSeenBy(Myself),3)
+  !GlobalTimerNotExpired("Cast","LOCALS")
+  Global("Whirl","LOCALS",0)
+THEN
+  RESPONSE #100
+    SetGlobal("Whirl","LOCALS",1)
+    SetGlobalTimer("Cast","LOCALS",ONE_ROUND)
+    ReallyForceSpell(Myself,WARRIOR_GREATER_WHIRLWIND)
+END
+
+IF
+  Range(LastSeenBy(Myself),3)
+  !GlobalTimerNotExpired("Cast","LOCALS")
+  Global("Whirl","LOCALS",1)
+THEN
+  RESPONSE #100
+    SetGlobal("Whirl","LOCALS",2)
+    SetGlobalTimer("Cast","LOCALS",ONE_ROUND)
+    ReallyForceSpell(Myself,WARRIOR_WHIRLWIND)
+END
+
+IF
+  CheckStat(LastSeenBy(Myself),100,RESISTSLASHING)
+  CheckStatLT(LastSeenBy(Myself),100,RESISTFIRE)
+THEN
+  RESPONSE #100
+    DisplayString(Myself,99994)  // ~The military pick originated from the common mining tool. It consists of a heavy piercing fluke mounted on a haft. Its role in combat is to puncture heavier armors, even full plate.STATISTICS:Damage: 2d4 (piercing)Speed Factor: 7Proficiency Type: AxeType: One-handedRequires: 8 StrengthWeight: 6~
+    SetGlobalTimer("Cast","LOCALS",ONE_ROUND)
+    SpellNoDec(LastSeenBy(Myself),CLERIC_SUNRAY)
+  RESPONSE #100
+    DisplayString(Myself,99994)  // ~The military pick originated from the common mining tool. It consists of a heavy piercing fluke mounted on a haft. Its role in combat is to puncture heavier armors, even full plate.STATISTICS:Damage: 2d4 (piercing)Speed Factor: 7Proficiency Type: AxeType: One-handedRequires: 8 StrengthWeight: 6~
+    SetGlobalTimer("Cast","LOCALS",ONE_ROUND)
+    SpellNoDec(LastSeenBy(Myself),HELL_DAMAGE_HALF)
+END
+
+IF
+  !GlobalTimerNotExpired("Cast","LOCALS")
+  HaveSpell(CLERIC_HOLY_SMITE)
+THEN
+  RESPONSE #100
+    SetGlobalTimer("Cast","LOCALS",ONE_ROUND)
+    Spell(LastSeenBy(Myself),CLERIC_HOLY_SMITE)
+END
+
+IF
+  !Allegiance(LastSeenBy(Myself),ENEMY)
+THEN
+  RESPONSE #100
+    Attack(LastSeenBy(Myself))
+END
+

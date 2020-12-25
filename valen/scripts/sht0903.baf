@@ -1,0 +1,21 @@
+IF
+  Detect(NearestEnemyOf(Myself))
+  !See(NearestEnemyOf(Myself))
+  Delay(3)
+THEN
+  RESPONSE #100
+    ReallyForceSpell(Myself,CLERIC_TRUE_SIGHT)
+END
+
+IF
+  See(NearestEnemyOfType([GOODCUTOFF.UNDEAD]))
+  Delay(6)
+THEN
+  RESPONSE #100
+    SpellNoDec(Myself,CLERIC_REPULSE_UNDEAD)
+  RESPONSE #100
+    SpellNoDec(LastSeenBy(Myself),CLERIC_HOLY_SMITE)
+  RESPONSE #100
+    SpellNoDec(LastSeenBy(Myself),CLERIC_HOLY_WORD)
+END
+
